@@ -1,0 +1,1666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Order Tracker 2.1.7\n"
+"POT-Creation-Date: 2023-10-03 09:08+0530\n"
+"PO-Revision-Date: 2023-10-03 09:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: WP Swings\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;"
+"translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-mwb-custom-order-status.php:28
+#: admin/class-mwb-custom-order-status.php:29
+msgid "Custom Order Creation"
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:72
+msgid "No any Custom Order Created."
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:122
+#: admin/class-mwb-custom-order-status.php:178
+msgid "Delete"
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:154
+#: admin/class-mwb-custom-order-status.php:238
+msgid "Custom Order Status Name"
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:155
+msgid "Custom Order Status Image"
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:225
+#: admin/class-mwb-custom-order-status.php:226
+msgid "Create Custom Order Status"
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:234
+msgid "Create New Custom Order Status"
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:241
+msgid "Type Custom Order Status Name Here"
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:246
+msgid "Upload Default Logo"
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:250
+msgid "Upload the image which is used as logo for your custom order statuses."
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:255
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/class-mwb-custom-order-status.php:266
+msgid "Create Order Status"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:83
+msgid "WPS License"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:83
+msgid "WPS ORDER TRACKER LICENSE"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:102
+#: admin/class-mwb-tyo-admin-settings.php:543
+#: includes/class-mwb-track-your-order.php:2554
+#: includes/class-mwb-track-your-order.php:2649
+#: template/mwb-guest-track-order-page.php:45 woocommerce-order-tracker.php:161
+msgid "Track Your Order"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:148
+#: includes/class-mwb-track-your-order.php:1309
+#: includes/class-mwb-track-your-order.php:1312
+#: includes/class-mwb-track-your-order.php:1320
+#: includes/class-mwb-track-your-order.php:1323
+#: template/mwb-track-order-myaccount-page-template1.php:333
+#: woocommerce-order-tracker.php:146
+msgid "Track Order"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:149
+msgid "Build Custom Order Status"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:150
+msgid "Common Setting"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:151
+msgid "Templates"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:152
+msgid "Shipping Services Integration"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:153
+msgid "New Settings"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:154
+msgid "Track Your Order With Google Map"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:155
+msgid "17 Track Integration"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:156
+msgid "Enhanced Tracking"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:177
+#: admin/class-mwb-tyo-admin-settings.php:394
+#: includes/class-mwb-track-your-order.php:1113
+#: includes/class-mwb-track-your-order.php:1456
+#: includes/class-mwb-track-your-order.php:1462
+#: includes/class-mwb-track-your-order.php:1518
+msgid "Order Dispatched"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:178
+#: admin/class-mwb-tyo-admin-settings.php:393
+#: includes/class-mwb-track-your-order.php:1114
+#: includes/class-mwb-track-your-order.php:1443
+#: includes/class-mwb-track-your-order.php:1449
+#: includes/class-mwb-track-your-order.php:1520
+msgid "Order Packed"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:179
+#: admin/class-mwb-tyo-admin-settings.php:395
+#: includes/class-mwb-track-your-order.php:1115
+#: includes/class-mwb-track-your-order.php:1469
+#: includes/class-mwb-track-your-order.php:1475
+#: includes/class-mwb-track-your-order.php:1519
+msgid "Order Shipped"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:198
+msgid "Basic Settings"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:202
+msgid "Main Wrapper Class of Theme"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:203
+msgid "Write the main wrapper class of your theme if some design issue arises."
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:208
+msgid "Child Wrapper Class of Theme"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:209
+msgid ""
+"Write the child wrapper class of your theme if some design issue arises."
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:214
+msgid "Tracking Order Page Custom CSS"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:215
+msgid "Write the custom css for Tracking Order page."
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:223
+msgid "Text for "
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:223
+msgid " status on tracking page"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:224
+msgid "Write the text for "
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:224
+msgid " to be shown on frontend during order tracking."
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:263
+msgid "Third Party Shipment Tracking API To Track Order In Real Time"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:267
+#: admin/class-mwb-tyo-admin-settings.php:268
+msgid "Enable Third Party Tracking API"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:274
+msgid "Enter The Shop Address"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:275
+msgid "Enter the shop address so that customer can find your store easily"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:281
+msgid "Enable FedEx Shipment Tracking"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:282
+msgid "Enable FedEx Shipment Tracking API"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:288
+msgid "Enter Your FedEx User Key"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:289
+msgid "Enter your FedEx user key"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:295
+msgid "Enter Your FedEx User Password"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:296
+msgid "Enter your FedEx user password"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:302
+msgid "Enter Your FedEx Account Number"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:303
+msgid "Enter your FedEx account number"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:309
+msgid "Enter Your FedEx Meter Number"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:310
+msgid "Enter your FedEx meter number"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:316
+msgid "Enable Canada Post Shipment Tracking"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:317
+msgid "Enable Canada Post Shipment Tracking API"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:323
+msgid "Enter your Canada Post UserName"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:324
+msgid "Enter your Canada Post UserName Here"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:330
+msgid "Enter your Canada Post User Password"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:331
+msgid "Enter your Canada Post User Password Here"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:338
+msgid "Enable USPS Shipment Tracking"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:339
+msgid "Enable USPS Shipment Tracking API"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:345
+msgid "Enter your USPS UserName"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:346
+msgid "Enter your USPS UserName Here"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:352
+msgid "Enter your USPS User Password"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:353
+msgid "Enter your USPS User Password Here"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:440
+msgid "dd Month yyyy T"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:441
+msgid "dd/mm/yy"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:442
+msgid "dd Month,yyyy T AM/PM"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:443
+msgid "yyyy/mm/dd"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:444
+msgid "mm/dd/yyyy"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:445
+msgid "d M, yy"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:446
+msgid "DD, d MM, yy"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:447
+msgid "yy-mm-dd"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:452
+msgid "This Settings Will Work For New Added Templates"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:456
+msgid "Select Your Order Statuses To Show On Front-End For Tracking"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:457
+msgid ""
+"Select New Order Statuses And Default Statuses Which You Want For Order "
+"Tracking, You can change the position of the statuses as you want this "
+"section is sortable"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:468
+msgid "Select Date Format"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:469
+msgid "Select date format to show on tracking templates"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:502
+msgid ""
+"Third Party Shipment Tracking API To Track Order In Real Time With 17Track."
+"net"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:506
+msgid "Enable 17Track.net Tracking Feature"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:507
+msgid ""
+"Enable 17Track.net tracking Feature if you ship your orders with different "
+"shipping companies"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:547
+msgid "Enable Order tracking Feature"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:548
+msgid "Enable Track Your Order Feature"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:554
+msgid "Enable use of icon for order status"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:555
+msgid ""
+"Enable this to show icon instead of text for order status in order table."
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:561
+msgid "Shortcode to create Order Tracking page"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:562
+msgid ""
+"[wps_create_tracking_page] -> it will show my-account-page for logged in "
+"user and it will show tracking form for guest user."
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:569
+msgid "Shortcode to show track order form"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:570
+msgid ""
+"[wps_track_order_form] -> it will show tracking form for logged in user as "
+"well as guest user."
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:577
+msgid "Enable Order tracking using order id only"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:578
+msgid ""
+"In Default case, guest user can track order using email and order id. Enable "
+"this to track order using order id only."
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:584
+msgid "Enable logged-in user to EXPORT ORDER"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:585
+msgid ""
+"Enabling this setting , Logged-in user can export order from my-account/"
+"order sections"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:591
+msgid "Enable Guest user to EXPORT ORDER"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:592
+msgid ""
+"Enabling this setting , Guest user can export order from guest tracking page"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:598
+msgid "Enable Pop-up View For Order Tracking"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:599
+msgid "Enable Track Your Order Feature in pop-up box"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:605
+msgid "Enable Use Of Custom Order Status"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:606
+msgid "Enable use of Custom Order Status"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:612
+msgid "Custom Order Statuses"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:613
+msgid "Select new Order Status to be created for enhanced order tracking"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:623
+msgid "hidden_status"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:624
+#: admin/class-mwb-tyo-admin-settings.php:635
+msgid ""
+"Select Order Status to be shown in the Approval section while order tracking"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:634
+#: template/mwb-track-order-myaccount-page-template1.php:496
+#: template/mwb-track-order-myaccount-page-template2.php:394
+#: template/mwb-track-order-myaccount-page-template2.php:401
+#: template/mwb-track-order-myaccount-page-template2.php:474
+msgid "Approval"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:645
+#: template/mwb-track-order-myaccount-page-template2.php:409
+#: template/mwb-track-order-myaccount-page-template2.php:415
+#: template/mwb-track-order-myaccount-page-template2.php:420
+msgid "Processing"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:646
+msgid ""
+"Select Order Status to be shown in the Processing section while order "
+"tracking"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:656
+#: template/mwb-track-order-myaccount-page-template1.php:733
+#: template/mwb-track-order-myaccount-page-template2.php:430
+#: template/mwb-track-order-myaccount-page-template2.php:435
+#: template/mwb-track-order-myaccount-page-template2.php:440
+#: template/mwb-track-order-myaccount-page-template2.php:719
+msgid "Shipping"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:657
+msgid ""
+"Select Order Status to be shown in the Shipping section while order tracking"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:667
+msgid "Enable E-mail Notification Feature"
+msgstr ""
+
+#: admin/class-mwb-tyo-admin-settings.php:668
+msgid ""
+"Enable to send the e-mail notification to the customer on changing order "
+"status"
+msgstr ""
+
+#: admin/enhanced-tracking-settings.php:61
+msgid "Enable Plugin"
+msgstr ""
+
+#: admin/enhanced-tracking-settings.php:64
+msgid "Enable the checkbox if you want to activate the functionality"
+msgstr ""
+
+#: admin/enhanced-tracking-settings.php:69
+msgid "Enable the checkbox to enable Tracking"
+msgstr ""
+
+#: admin/enhanced-tracking-settings.php:77
+msgid "Select Shipping Companies You Want"
+msgstr ""
+
+#: admin/enhanced-tracking-settings.php:123
+msgid "Add Shipment Tracking Provide Name"
+msgstr ""
+
+#: admin/enhanced-tracking-settings.php:131
+msgid ""
+"Enter Providers name you are going to use like PostNl Shipping, Express "
+"Shipping etc."
+msgstr ""
+
+#: admin/enhanced-tracking-settings.php:134
+msgid "Provider Name"
+msgstr ""
+
+#: admin/enhanced-tracking-settings.php:141
+msgid ""
+"Enter Providers Tracking Page Url from where your customer can track thier "
+"packages."
+msgstr ""
+
+#: admin/enhanced-tracking-settings.php:144
+msgid "Provider tracking Page Url"
+msgstr ""
+
+#: admin/enhanced-tracking-settings.php:148
+msgid "Add"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:36
+msgid "Enable Google Map For Tracking"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:39
+msgid "Enable Tracking Your Order With Google Map API"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:45
+msgid "Enter Google Map API Key"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:48
+msgid "Enter your google map API key"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:54
+msgid "Enter Order Production House Address"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:57
+msgid "Enter Order Origin Address"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:57
+msgid "Enter your order production house address"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:62
+msgid "Enter Addresses From Where Your Order Has Gone Through"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:68
+msgid "Enter Address"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:68
+msgid "Enter the addresses one by one from where your order has gone through"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:69
+msgid "Add Address"
+msgstr ""
+
+#: admin/mwb-tyo-track-with-google-map.php:77
+msgid "Selected Addresses"
+msgstr ""
+
+#: admin/mwb-wot-license.php:14
+msgid "WooCommerce Order Tracker License Panel"
+msgstr ""
+
+#: admin/mwb-wot-license.php:18
+msgid ""
+"This is the License Activation Panel. After purchasing extension from "
+"Codecanyon you will get the purchase code of this extension. Please verify "
+"your purchase below so that you can use feature of this plugin."
+msgstr ""
+
+#: admin/mwb-wot-license.php:26
+msgid "Enter Purchase Code"
+msgstr ""
+
+#: admin/track-order-templates.php:15 admin/track-order-templates.php:16
+#: admin/track-order-templates.php:17 admin/track-order-templates.php:18
+#: admin/track-order-templates.php:19 admin/track-order-templates.php:20
+#: admin/track-order-templates.php:21
+msgid "Activate"
+msgstr ""
+
+#: admin/track-order-templates.php:24 admin/track-order-templates.php:26
+#: admin/track-order-templates.php:28 admin/track-order-templates.php:30
+#: admin/track-order-templates.php:32 admin/track-order-templates.php:34
+#: admin/track-order-templates.php:36
+msgid "Activated"
+msgstr ""
+
+#: admin/track-order-templates.php:39
+msgid "Different templates for your order tracking"
+msgstr ""
+
+#: admin/track-order-templates.php:49
+msgid "Template-1"
+msgstr ""
+
+#: admin/track-order-templates.php:53 admin/track-order-templates.php:68
+#: admin/track-order-templates.php:82 admin/track-order-templates.php:96
+#: admin/track-order-templates.php:110 admin/track-order-templates.php:124
+#: admin/track-order-templates.php:138
+msgid "Preview"
+msgstr ""
+
+#: admin/track-order-templates.php:64
+msgid "Template-2"
+msgstr ""
+
+#: admin/track-order-templates.php:78
+msgid "Template-3"
+msgstr ""
+
+#: admin/track-order-templates.php:92
+msgid "Template-4"
+msgstr ""
+
+#: admin/track-order-templates.php:106
+msgid "New-Template-1"
+msgstr ""
+
+#: admin/track-order-templates.php:120
+msgid "New-Template-2"
+msgstr ""
+
+#: admin/track-order-templates.php:134
+msgid "New-Template-3"
+msgstr ""
+
+#: class-mwb-tyo-update.php:212
+msgid "Plugin Description"
+msgstr ""
+
+#: class-mwb-tyo-update.php:216
+msgid "Plugin Change Log"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:91
+msgid "Please provide Tracking number For track your package"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:144
+msgid " Your Order is "
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:144
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:307
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:326
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:273
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:277
+msgid " on"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:173
+#: includes/class-mwb-track-your-order-with-fedex.php:183
+msgid "Error in processing transaction"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:193
+msgid "Please enter correct orderId/Fedex tracking number"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:198
+msgid ""
+"Please provide credentials For tracking your package with fedex tracking "
+"services"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:203
+msgid "Service not avilable"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:333
+msgid "event-description"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:334
+#: includes/class-mwb-track-your-order-with-fedex.php:441
+msgid "your order reached at "
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:335
+msgid "event-site"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:350
+msgid "Service Unavailable"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:356
+msgid ""
+"Please provide tracking number For tracking your package with canada post "
+"tracking services"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:366
+msgid ""
+"Please provide credentials For tracking your package with canada post "
+"tracking services"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:405
+#: template/mwb-map-new-template.php:148 template/mwb-map-new-template.php:178
+#: template/mwb-map-new-template.php:183 template/mwb-map-new-template.php:210
+#: template/mwb-map-new-template.php:214
+msgid " On "
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:459
+msgid "UserID Or Tracking Number Not Found"
+msgstr ""
+
+#: includes/class-mwb-track-your-order-with-fedex.php:472
+msgid "Please Enter Correct OrderID and Tracking Number To Track Your Package"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:128
+msgid "Choose Status"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:139
+msgid "Export"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:277
+msgid "Hi! Your Order status on Pending!"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:279
+msgid "Pay for this order"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:297
+#: includes/class-mwb-track-your-order.php:1971
+#: template/mwb-track-order-myaccount-page-template1.php:1042
+msgid "Order Id"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:298
+msgid "Order Status"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:299
+msgid "Order Total"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:300
+msgid "Order Items"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:301
+msgid "Payment Method"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:302
+msgid "Billing Name"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:303
+msgid "Billing Email"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:304
+#: includes/class-mwb-track-your-order.php:2289
+msgid "Billing Address"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:305
+msgid "Billing Contact"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:306
+#: template/mwb-track-order-myaccount-page-template1.php:1043
+msgid "Order date"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:371
+msgid "Live Tracking"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:382
+msgid "Enter Courier Company"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:401
+msgid "Select the Company"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:421
+#: includes/class-mwb-track-your-order.php:1683
+msgid "Tracking Number"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:476
+msgid "Enter Customer Notes"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:495
+msgid "Customer Note"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:497
+msgid "Enter The customer note that will display on the order tracking page."
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:550
+msgid "Track"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:661
+msgid "Successfully Verified"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:688
+msgid "Canada Post"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:691
+msgid "USPS"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:793
+#: includes/class-mwb-track-your-order.php:1227
+#: includes/class-mwb-track-your-order.php:1241
+#: includes/class-mwb-track-your-order.php:1277
+msgid "success"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:870
+msgid "17Tracking Id"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:905
+#: includes/class-mwb-track-your-order.php:932
+msgid "N/A"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:947
+msgid "Logout"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1144
+msgid "Close"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1145
+msgid "Order Status successfully saved."
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1146
+msgid "Please enter a Valid Status Name."
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1147
+msgid "Unable to save Order Status."
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1148
+msgid "Please enter the status name ."
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1149
+msgid "Template Activated sucessfully."
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1179
+msgid "Please Enter Address First"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1180
+msgid "Address Successfully Added"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1181
+msgid "Select Your Hubpoint Addresses"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1279
+msgid "failed"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1342
+#: includes/class-mwb-track-your-order.php:2621
+#: template/mwb-guest-track-order-page.php:111
+msgid "Export Orders"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1449
+#, php-format
+msgid "<span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1462
+#: includes/class-mwb-track-your-order.php:1475
+#: includes/class-mwb-track-your-order.php:1493
+#, php-format
+msgid " <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1547
+msgid "Enter Estimated Delivery Date"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1550
+msgid "Select Service For Tracking Your Package"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1555
+msgid "Select City When Your Package Reaches The Desire City"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1577
+msgid "none"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1577
+msgid "Select shipping Cities"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1620
+msgid "Delivery Date"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1621
+msgid "Enter Delivery Date"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1622
+msgid "Delivery Time"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1623
+msgid "Enter Delivery time"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1664
+msgid "---Select shipping Services---"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1684
+msgid "Enter Tracking Number"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1690
+msgid "17Track Number"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1691
+msgid "Enter 17 Tracking Number"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1866
+#: includes/class-mwb-track-your-order.php:2117
+#: includes/class-mwb-track-your-order.php:2129
+msgid "Your Order Status for Order #"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1867
+#: includes/class-mwb-track-your-order.php:2118
+#: includes/class-mwb-track-your-order.php:2130
+msgid "Your Order Status is "
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1868
+#: includes/class-mwb-track-your-order.php:2119
+#: includes/class-mwb-track-your-order.php:2131
+msgid "Current Order Status is "
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:1972
+msgid "Tracking Number "
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2237
+msgid "Product"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2238
+#: template/mwb-track-order-myaccount-page-template1.php:891
+#: template/mwb-track-order-myaccount-page-template3.php:268
+#: template/mwb-track-order-myaccount-page-template4.php:600
+msgid "Quantity"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2239
+msgid "Price"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2263
+#: template/mwb-track-order-myaccount-page-template1.php:1022
+#: template/mwb-track-order-myaccount-page-template3.php:397
+#: template/mwb-track-order-myaccount-page-template4.php:730
+msgid "Total"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2269
+msgid "Customer details"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2273
+msgid "Email"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2278
+msgid "Tel"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2285
+msgid "Shipping Address"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2331
+#: includes/class-mwb-track-your-order.php:2351
+msgid "Note:"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2331
+#: includes/class-mwb-track-your-order.php:2351
+msgid "Click The Below To Track Your Order"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2332
+#: includes/class-mwb-track-your-order.php:2353
+#: includes/class-mwb-track-your-order.php:2603
+#: includes/class-mwb-track-your-order.php:2698
+#: template/mwb-guest-track-order-page.php:94
+msgid "TRACK ORDER"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2353
+msgid "Order status for - "
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2395
+#: includes/class-mwb-track-your-order.php:2440
+msgid "Tracking Info"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2397
+#: includes/class-mwb-track-your-order.php:2442
+msgid "Order picked up by "
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2398
+#: includes/class-mwb-track-your-order.php:2443
+msgid "Estimated Delivery Date : "
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2405
+#: includes/class-mwb-track-your-order.php:2450
+msgid "Tracking Code : "
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2407
+#: includes/class-mwb-track-your-order.php:2452
+msgid "track your order"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2472
+msgid "Change status to "
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2569
+#: includes/class-mwb-track-your-order.php:2664
+#: template/mwb-guest-track-order-page.php:60
+msgid "ERROR"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2580
+#: includes/class-mwb-track-your-order.php:2675
+#: template/mwb-guest-track-order-page.php:71
+msgid "Enter Your 17TrackingNo"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2590
+#: includes/class-mwb-track-your-order.php:2685
+#: template/mwb-guest-track-order-page.php:81
+msgid "Enter Order Id"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2597
+#: includes/class-mwb-track-your-order.php:2692
+#: template/mwb-guest-track-order-page.php:88
+msgid "Enter Order Email"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2617
+#: template/mwb-guest-track-order-page.php:107
+msgid "!------ Export Your All Orders Using Email ------!"
+msgstr ""
+
+#: includes/class-mwb-track-your-order.php:2619
+#: template/mwb-guest-track-order-page.php:109
+msgid "Enter Email"
+msgstr ""
+
+#: template/mwb-map-new-template.php:38
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:48
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:47
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:46
+#: template/mwb-track-order-myaccount-page-template1.php:48
+#: template/mwb-track-order-myaccount-page-template2.php:47
+#: template/mwb-track-order-myaccount-page-template3.php:47
+#: template/mwb-track-order-myaccount-page-template4.php:49
+#: template/mwb-track-order-myaccount-page-template4.php:159
+msgid "Please choose an Order."
+msgstr ""
+
+#: template/mwb-map-new-template.php:38
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:48
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:47
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:46
+#: template/mwb-track-order-myaccount-page-template1.php:48
+#: template/mwb-track-order-myaccount-page-template2.php:47
+#: template/mwb-track-order-myaccount-page-template3.php:47
+#: template/mwb-track-order-myaccount-page-template4.php:49
+#: template/mwb-track-order-myaccount-page-template4.php:159
+msgid "Click Here"
+msgstr ""
+
+#: template/mwb-map-new-template.php:53 template/mwb-map-new-template.php:73
+#: template/mwb-map-new-template.php:85
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:65
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:87
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:101
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:63
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:86
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:100
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:62
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:84
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:98
+#: template/mwb-track-order-myaccount-page-template1.php:64
+#: template/mwb-track-order-myaccount-page-template1.php:86
+#: template/mwb-track-order-myaccount-page-template1.php:100
+#: template/mwb-track-order-myaccount-page-template2.php:63
+#: template/mwb-track-order-myaccount-page-template2.php:85
+#: template/mwb-track-order-myaccount-page-template2.php:99
+#: template/mwb-track-order-myaccount-page-template3.php:66
+#: template/mwb-track-order-myaccount-page-template3.php:89
+#: template/mwb-track-order-myaccount-page-template4.php:65
+#: template/mwb-track-order-myaccount-page-template4.php:87
+#: template/mwb-track-order-myaccount-page-template4.php:101
+msgid "This order #"
+msgstr ""
+
+#: template/mwb-map-new-template.php:53 template/mwb-map-new-template.php:73
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:65
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:87
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:63
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:86
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:62
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:84
+#: template/mwb-track-order-myaccount-page-template1.php:64
+#: template/mwb-track-order-myaccount-page-template1.php:86
+#: template/mwb-track-order-myaccount-page-template2.php:63
+#: template/mwb-track-order-myaccount-page-template2.php:85
+#: template/mwb-track-order-myaccount-page-template3.php:66
+#: template/mwb-track-order-myaccount-page-template3.php:89
+#: template/mwb-track-order-myaccount-page-template4.php:65
+#: template/mwb-track-order-myaccount-page-template4.php:87
+msgid "is not associated to your account."
+msgstr ""
+
+#: template/mwb-map-new-template.php:53 template/mwb-map-new-template.php:73
+#: template/mwb-map-new-template.php:85
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:65
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:87
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:101
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:63
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:86
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:100
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:62
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:84
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:98
+#: template/mwb-track-order-myaccount-page-template1.php:64
+#: template/mwb-track-order-myaccount-page-template1.php:86
+#: template/mwb-track-order-myaccount-page-template1.php:100
+#: template/mwb-track-order-myaccount-page-template2.php:63
+#: template/mwb-track-order-myaccount-page-template2.php:85
+#: template/mwb-track-order-myaccount-page-template2.php:99
+#: template/mwb-track-order-myaccount-page-template3.php:66
+#: template/mwb-track-order-myaccount-page-template3.php:89
+#: template/mwb-track-order-myaccount-page-template4.php:65
+#: template/mwb-track-order-myaccount-page-template4.php:87
+#: template/mwb-track-order-myaccount-page-template4.php:101
+msgid "Click Here "
+msgstr ""
+
+#: template/mwb-map-new-template.php:85
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:101
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:100
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:98
+#: template/mwb-track-order-myaccount-page-template1.php:100
+#: template/mwb-track-order-myaccount-page-template2.php:99
+#: template/mwb-track-order-myaccount-page-template4.php:101
+msgid " is not associated to your account."
+msgstr ""
+
+#: template/mwb-map-new-template.php:147
+msgid "Order Placed Successfully "
+msgstr ""
+
+#: template/mwb-map-new-template.php:154
+msgid "United States"
+msgstr ""
+
+#: template/mwb-map-new-template.php:205
+msgid "Product Delivered"
+msgstr ""
+
+#: template/mwb-map-new-template.php:219
+msgid " -- "
+msgstr ""
+
+#: template/mwb-map-new-template.php:263 template/mwb-map-new-template.php:330
+msgid "order id : "
+msgstr ""
+
+#: template/mwb-map-new-template.php:267 template/mwb-map-new-template.php:334
+msgid "seller : "
+msgstr ""
+
+#: template/mwb-map-new-template.php:275 template/mwb-map-new-template.php:342
+#: template/mwb-track-order-myaccount-page-template1.php:934
+#: template/mwb-track-order-myaccount-page-template1.php:997
+#: template/mwb-track-order-myaccount-page-template3.php:310
+#: template/mwb-track-order-myaccount-page-template3.php:373
+#: template/mwb-track-order-myaccount-page-template4.php:646
+#: template/mwb-track-order-myaccount-page-template4.php:706
+msgid "Placeholder"
+msgstr ""
+
+#: template/mwb-map-new-template.php:284 template/mwb-map-new-template.php:351
+msgid "Quantity : "
+msgstr ""
+
+#: template/mwb-map-new-template.php:427
+msgid "Places Where Your Package Travel"
+msgstr ""
+
+#: template/mwb-map-new-template.php:432
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:359
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:317
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:315
+#: template/mwb-track-order-myaccount-page-template1.php:1075
+#: template/mwb-track-order-myaccount-page-template2.php:882
+#: template/mwb-track-order-myaccount-page-template3.php:828
+#: template/mwb-track-order-myaccount-page-template4.php:758
+msgid "Tracking Request can't be send. "
+msgstr ""
+
+#: template/mwb-order-tracking-page.php:35 woocommerce-order-tracker.php:176
+msgid "Shipment Tracking"
+msgstr ""
+
+#: template/mwb-order-tracking-page.php:40
+msgid " Enter Order Id "
+msgstr ""
+
+#: template/mwb-order-tracking-page.php:41
+msgid "Enter Order id"
+msgstr ""
+
+#: template/mwb-order-tracking-page.php:44
+msgid "Submit"
+msgstr ""
+
+#: template/mwb-order-tracking-page.php:70
+msgid "Service Not Available"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:275
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:241
+msgid "Order Placed"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:276
+msgid "your order is successfully placed on"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:300
+#: template/mwb-track-order-myaccount-page-newtemplate1.php:325
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:264
+msgid "your order status is "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-newtemplate2.php:242
+msgid "your order accepted on"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-newtemplate3.php:273
+msgid "your order is"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:332
+#: template/mwb-track-order-myaccount-page-template1.php:1041
+#: template/mwb-track-order-myaccount-page-template3.php:218
+#: template/mwb-track-order-myaccount-page-template4.php:422
+#: template/mwb-track-order-myaccount-page-template4.php:567
+msgid "Order Details"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:344
+#: template/mwb-track-order-myaccount-page-template2.php:387
+msgid "Placed"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:357
+msgid "Approved"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:367
+#: template/mwb-track-order-myaccount-page-template1.php:389
+#: template/mwb-track-order-myaccount-page-template1.php:408
+#: template/mwb-track-order-myaccount-page-template1.php:575
+#: template/mwb-track-order-myaccount-page-template1.php:664
+#: template/mwb-track-order-myaccount-page-template1.php:685
+#: template/mwb-track-order-myaccount-page-template1.php:794
+#: template/mwb-track-order-myaccount-page-template1.php:814
+#: template/mwb-track-order-myaccount-page-template2.php:457
+#: template/mwb-track-order-myaccount-page-template2.php:564
+#: template/mwb-track-order-myaccount-page-template2.php:650
+#: template/mwb-track-order-myaccount-page-template2.php:670
+#: template/mwb-track-order-myaccount-page-template2.php:779
+#: template/mwb-track-order-myaccount-page-template2.php:799
+msgid "Cancelled"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:380
+msgid "Processed"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:399
+msgid "Shipped"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:419
+#: template/mwb-track-order-myaccount-page-template1.php:839
+#: template/mwb-track-order-myaccount-page-template2.php:450
+#: template/mwb-track-order-myaccount-page-template2.php:826
+msgid "Delivered"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:429
+#: template/mwb-track-order-myaccount-page-template2.php:464
+msgid "Delivery"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:498
+#: template/mwb-track-order-myaccount-page-template2.php:479
+msgid "placed"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:500
+#: template/mwb-track-order-myaccount-page-template2.php:489
+#: template/mwb-track-order-myaccount-page-template3.php:469
+msgid "Your Order is Successfully Placed"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:510
+#: template/mwb-track-order-myaccount-page-template1.php:532
+#: template/mwb-track-order-myaccount-page-template1.php:607
+#: template/mwb-track-order-myaccount-page-template1.php:628
+#: template/mwb-track-order-myaccount-page-template1.php:737
+#: template/mwb-track-order-myaccount-page-template1.php:758
+#: template/mwb-track-order-myaccount-page-template2.php:500
+#: template/mwb-track-order-myaccount-page-template2.php:519
+#: template/mwb-track-order-myaccount-page-template2.php:596
+#: template/mwb-track-order-myaccount-page-template2.php:615
+#: template/mwb-track-order-myaccount-page-template2.php:723
+#: template/mwb-track-order-myaccount-page-template2.php:744
+#: template/mwb-track-order-myaccount-page-template3.php:479
+#: template/mwb-track-order-myaccount-page-template3.php:492
+#: template/mwb-track-order-myaccount-page-template3.php:557
+#: template/mwb-track-order-myaccount-page-template3.php:568
+#: template/mwb-track-order-myaccount-page-template3.php:661
+#: template/mwb-track-order-myaccount-page-template3.php:678
+msgid "Your Order status is "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:564
+#: template/mwb-track-order-myaccount-page-template1.php:653
+#: template/mwb-track-order-myaccount-page-template1.php:783
+#: template/mwb-track-order-myaccount-page-template2.php:553
+#: template/mwb-track-order-myaccount-page-template2.php:639
+#: template/mwb-track-order-myaccount-page-template2.php:768
+#: template/mwb-track-order-myaccount-page-template3.php:527
+#: template/mwb-track-order-myaccount-page-template3.php:610
+#: template/mwb-track-order-myaccount-page-template3.php:723
+msgid "Your Order is Cancelled"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:603
+#: template/mwb-track-order-myaccount-page-template2.php:592
+msgid "processing"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:674
+#: template/mwb-track-order-myaccount-page-template1.php:804
+#: template/mwb-track-order-myaccount-page-template2.php:660
+#: template/mwb-track-order-myaccount-page-template2.php:789
+#: template/mwb-track-order-myaccount-page-template3.php:635
+#: template/mwb-track-order-myaccount-page-template3.php:744
+msgid "Your Order is cancelled"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:709
+#: template/mwb-track-order-myaccount-page-template2.php:695
+msgid "Your Order is processed"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:828
+#: template/mwb-track-order-myaccount-page-template2.php:814
+msgid "Your Order is Shipped"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:843
+#: template/mwb-track-order-myaccount-page-template2.php:830
+#: template/mwb-track-order-myaccount-page-template3.php:769
+msgid "Order Cancelled"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:845
+#: template/mwb-track-order-myaccount-page-template2.php:832
+#: template/mwb-track-order-myaccount-page-template3.php:771
+msgid "Not Delivered"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:847
+#: template/mwb-track-order-myaccount-page-template2.php:834
+msgid "Your order is completed and delivered on "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:856
+#: template/mwb-track-order-myaccount-page-template2.php:843
+msgid "Your order is Cancelled"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:865
+#: template/mwb-track-order-myaccount-page-template1.php:870
+#: template/mwb-track-order-myaccount-page-template2.php:851
+#: template/mwb-track-order-myaccount-page-template2.php:856
+msgid "Your order is expected to delivered by "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:868
+msgid "Your order is Completed on "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:890
+#: template/mwb-track-order-myaccount-page-template3.php:267
+#: template/mwb-track-order-myaccount-page-template4.php:599
+msgid "Product Details"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:892
+#: template/mwb-track-order-myaccount-page-template3.php:269
+msgid "Sub Total"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:1042
+msgid " items"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:1052
+msgid "Amount paid"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template1.php:1066
+#: template/mwb-track-order-myaccount-page-template2.php:872
+#: template/mwb-track-order-myaccount-page-template3.php:804
+#: template/mwb-track-order-myaccount-page-template4.php:750
+msgid "Customer Note :-"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template2.php:854
+msgid "Your Order is Completed on "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:224
+msgid "Order Id:"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:232
+#: template/mwb-track-order-myaccount-page-template4.php:575
+msgid "("
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:232
+#: template/mwb-track-order-myaccount-page-template4.php:575
+msgid " items)"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:235
+msgid "Order Date:"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:247
+msgid "Amount Paid:"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:444
+msgid "APPROVAL"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:445
+msgid "PROCESSING"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:446
+msgid "SHIPPING"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:448
+msgid "DELIVERY"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:499
+#: template/mwb-track-order-myaccount-page-template3.php:508
+#: template/mwb-track-order-myaccount-page-template3.php:576
+#: template/mwb-track-order-myaccount-page-template3.php:585
+#: template/mwb-track-order-myaccount-page-template3.php:687
+#: template/mwb-track-order-myaccount-page-template3.php:697
+msgid " on "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:598
+#: template/mwb-track-order-myaccount-page-template3.php:711
+msgid "Your Order is Sent back"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:624
+msgid "Your Order Is Processed"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:772
+msgid "on "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template3.php:783
+#: template/mwb-track-order-myaccount-page-template3.php:787
+msgid "by "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template4.php:423
+msgid "Order Tracking"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template4.php:424
+msgid "Get Shop Location"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template4.php:511
+#: template/mwb-track-order-myaccount-page-template4.php:517
+msgid "mwb_tyo_tooltip_class5"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template4.php:537
+msgid "Your Current Order Status"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template4.php:561
+msgid "Your Current Order status is "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template4.php:568
+msgid "order id"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template4.php:576
+msgid "order date"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template4.php:585
+msgid "amount paid"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page-template4.php:601
+msgid "Amount Paid"
+msgstr ""
+
+#: woocommerce-order-tracker.php:75
+msgid "Woocommerce order tracker"
+msgstr ""
+
+#: woocommerce-order-tracker.php:76
+msgid "Woocommerce"
+msgstr ""
+
+#: woocommerce-order-tracker.php:79
+#, php-format
+msgid ""
+"%1$s requires %2$s to function correctly. Please activate %2$s before "
+"activating %1$s. For now, the plugin has been deactivated."
+msgstr ""
+
+#: woocommerce-order-tracker.php:279
+msgid "OrderId or Email is Invalid"
+msgstr ""
+
+#: woocommerce-order-tracker.php:288
+msgid "OrderId is Invalid"
+msgstr ""
+
+#: woocommerce-order-tracker.php:329
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-order-tracker.php:355
+msgid ""
+"Woocommerce is not activated, Please activate Woocommerce first to install "
+"Woocommerce Track Order."
+msgstr ""

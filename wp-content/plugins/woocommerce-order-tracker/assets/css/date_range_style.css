@@ -1,0 +1,628 @@
+.ui-widget-content a, .ui-widget-header, .ui-widget-header a {
+	color: #222
+}
+
+.mwb_wcswr_date_range {
+	border: none
+}
+
+.mwb_wcswr_container {
+	font-size: 16px;
+	font-family: "Open Sans", sans-serif
+}
+
+.ui-datepicker {
+	width: 17em;
+	padding: .2em .2em 0;
+	display: none
+}
+
+.ui-datepicker .ui-datepicker-header {
+	position: relative;
+	padding: .2em 0
+}
+
+.ui-datepicker .ui-datepicker-next, .ui-datepicker .ui-datepicker-prev {
+	position: absolute;
+	top: 2px;
+	width: 1.8em;
+	height: 1.8em
+}
+
+.ui-datepicker .ui-datepicker-next-hover, .ui-datepicker .ui-datepicker-prev-hover
+	{
+	top: 1px
+}
+
+.ui-datepicker .ui-datepicker-prev {
+	left: 2px
+}
+
+.ui-datepicker .ui-datepicker-next {
+	right: 2px
+}
+
+.ui-datepicker .ui-datepicker-prev-hover {
+	left: 1px
+}
+
+.ui-datepicker .ui-datepicker-next-hover {
+	right: 1px
+}
+
+.ui-datepicker .ui-datepicker-next span, .ui-datepicker .ui-datepicker-prev span
+	{
+	display: block;
+	position: absolute;
+	left: 50%;
+	margin-left: -8px;
+	top: 50%;
+	margin-top: -8px
+}
+
+.ui-datepicker .ui-datepicker-title {
+	margin: 0 2.3em;
+	line-height: 1.8em;
+	text-align: center
+}
+
+.ui-datepicker .ui-datepicker-title select {
+	font-size: 1em;
+	margin: 1px 0
+}
+
+.ui-datepicker select.ui-datepicker-month, .ui-datepicker select.ui-datepicker-year
+	{
+	width: 45%
+}
+
+.ui-datepicker table {
+	width: 100%;
+	font-size: .9em;
+	border-collapse: collapse;
+	margin: 0 0 .4em
+}
+
+.ui-datepicker th {
+	padding: .7em .3em;
+	text-align: center;
+	font-weight: 700;
+	border: 0
+}
+
+.ui-datepicker td {
+	border: 0;
+	padding: 1px
+}
+
+.ui-datepicker td a, .ui-datepicker td span {
+	display: block;
+	padding: .2em;
+	text-align: right;
+	text-decoration: none
+}
+
+.ui-datepicker .ui-datepicker-buttonpane {
+	background-image: none;
+	margin: .7em 0 0;
+	padding: 0 .2em;
+	border-left: 0;
+	border-right: 0;
+	border-bottom: 0
+}
+
+.ui-datepicker .ui-datepicker-buttonpane button {
+	float: right;
+	margin: .5em .2em .4em;
+	cursor: pointer;
+	padding: .2em .6em .3em;
+	width: auto;
+	overflow: visible
+}
+
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current,
+	.ui-datepicker-multi .ui-datepicker-group, .ui-datepicker-rtl .ui-datepicker-buttonpane button
+	{
+	float: left
+}
+
+.ui-datepicker.ui-datepicker-multi {
+	width: auto
+}
+
+.ui-datepicker-multi .ui-datepicker-group table {
+	width: 95%;
+	margin: 0 auto .4em
+}
+
+.ui-datepicker-multi-2 .ui-datepicker-group {
+	width: 50%
+}
+
+.ui-datepicker-multi-3 .ui-datepicker-group {
+	width: 33.3%
+}
+
+.ui-datepicker-multi-4 .ui-datepicker-group {
+	width: 25%
+}
+
+.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header,
+	.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header
+	{
+	border-left-width: 0
+}
+
+.ui-datepicker-multi .ui-datepicker-buttonpane {
+	clear: left
+}
+
+.ui-datepicker-row-break {
+	clear: both;
+	width: 100%;
+	font-size: 0
+}
+
+.ui-datepicker-rtl {
+	direction: rtl
+}
+
+.ui-datepicker-rtl .ui-datepicker-prev {
+	right: 2px;
+	left: auto
+}
+
+.ui-datepicker-rtl .ui-datepicker-next {
+	left: 2px;
+	right: auto
+}
+
+.ui-datepicker-rtl .ui-datepicker-prev:hover {
+	right: 1px;
+	left: auto
+}
+
+.ui-datepicker-rtl .ui-datepicker-next:hover {
+	left: 1px;
+	right: auto
+}
+
+.ui-datepicker-rtl .ui-datepicker-buttonpane {
+	clear: right
+}
+
+.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current,
+	.ui-datepicker-rtl .ui-datepicker-group {
+	float: right
+}
+
+.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header,
+	.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header {
+	border-right-width: 0;
+	border-left-width: 1px
+}
+
+.ui-widget-content {
+	border: 1px solid #aaa;
+	background: url(../images/ui-bg_flat_75_ffffff_40x100.png) 50% 50%
+		repeat-x #fff;
+	color: #222
+}
+
+.ui-widget-header {
+	border: 1px solid #aaa;
+	background: url(../images/ui-bg_highlight-soft_75_cccccc_1x100.png) 50%
+		50% repeat-x #ccc;
+	font-weight: 700
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default,
+	.ui-widget-header .ui-state-default {
+	border: 1px solid #d3d3d3;
+	background: url(../images/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50%
+		repeat-x #e6e6e6;
+	font-weight: 400;
+	color: #555
+}
+
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited
+	{
+	color: #555;
+	text-decoration: none
+}
+
+.ui-state-focus, .ui-state-hover, .ui-widget-content .ui-state-focus,
+	.ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-focus,
+	.ui-widget-header .ui-state-hover {
+	border: 1px solid #999;
+	background: url(../images/ui-bg_glass_75_dadada_1x400.png) 50% 50%
+		repeat-x #dadada;
+	font-weight: 400;
+	color: #212121
+}
+
+.ui-state-focus a, .ui-state-focus a:hover, .ui-state-focus a:link,
+	.ui-state-focus a:visited, .ui-state-hover a, .ui-state-hover a:hover,
+	.ui-state-hover a:link, .ui-state-hover a:visited {
+	color: #212121;
+	text-decoration: none
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active
+	{
+	border: 1px solid #aaa;
+	background: url(../images/ui-bg_glass_65_ffffff_1x400.png) 50% 50%
+		repeat-x #fff;
+	font-weight: 400;
+	color: #212121
+}
+
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited
+	{
+	color: #212121;
+	text-decoration: none
+}
+
+.ui-state-highlight, .ui-widget-content .ui-state-highlight,
+	.ui-widget-header .ui-state-highlight {
+	border: 1px solid #fcefa1;
+	background: url(../images/ui-bg_glass_55_fbf9ee_1x400.png) 50% 50%
+		repeat-x #fbf9ee;
+	color: #363636
+}
+
+.ui-state-highlight a, .ui-widget-content .ui-state-highlight a,
+	.ui-widget-header .ui-state-highlight a {
+	color: #363636
+}
+
+.ui-state-error, .ui-widget-content .ui-state-error, .ui-widget-header .ui-state-error
+	{
+	border: 1px solid #cd0a0a;
+	background: url(../images/ui-bg_glass_95_fef1ec_1x400.png) 50% 50%
+		repeat-x #fef1ec;
+	color: #cd0a0a
+}
+
+.ui-state-error a, .ui-state-error-text, .ui-widget-content .ui-state-error a,
+	.ui-widget-content .ui-state-error-text, .ui-widget-header .ui-state-error a,
+	.ui-widget-header .ui-state-error-text {
+	color: #cd0a0a
+}
+
+.ui-priority-primary, .ui-widget-content .ui-priority-primary,
+	.ui-widget-header .ui-priority-primary {
+	font-weight: 700
+}
+
+.ui-priority-secondary, .ui-widget-content .ui-priority-secondary,
+	.ui-widget-header .ui-priority-secondary {
+	opacity: .7;
+	filter: Alpha(Opacity = 70);
+	font-weight: 400
+}
+
+.ui-state-disabled, .ui-widget-content .ui-state-disabled,
+	.ui-widget-header .ui-state-disabled {
+	opacity: .35;
+	filter: Alpha(Opacity = 35);
+	background-image: none
+}
+
+.ui-state-disabled .ui-icon {
+	filter: Alpha(Opacity = 35)
+}
+
+.ui-icon {
+	width: 16px;
+	height: 16px
+}
+
+.ui-icon, .ui-widget-content .ui-icon, .ui-widget-header .ui-icon {
+	background-image: url(../images/ui-icons_222222_256x240.png)
+}
+
+.ui-state-default .ui-icon {
+	background-image: url(../images/ui-icons_888888_256x240.png)
+}
+
+.ui-state-active .ui-icon, .ui-state-focus .ui-icon, .ui-state-hover .ui-icon
+	{
+	background-image: url(../images/ui-icons_454545_256x240.png)
+}
+
+.ui-state-highlight .ui-icon {
+	background-image: url(../images/ui-icons_2e83ff_256x240.png)
+}
+
+.ui-state-error .ui-icon, .ui-state-error-text .ui-icon {
+	background-image: url(../images/ui-icons_cd0a0a_256x240.png)
+}
+
+
+
+.mwb_wcswr_align_span {
+	display: inline-block;
+	float: right;
+	text-align: center;
+	width: 330px
+}
+
+.help_icon {
+	background-image: url(../../assets/images/help.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 20px 20px;
+	display: inline-block;
+	height: 24px;
+	vertical-align: middle;
+	width: 31px;
+	cursor: help;
+	z-index: 9999
+}
+
+.mwb_wcswr_settings_wrapper {
+	background-color: #fff;
+	margin: 0 auto;
+	border: 1px solid #fff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	box-shadow: 2px 4px 6px 2px #ccc;
+}
+
+.mwb_wcswr_default {
+	margin-bottom: 10px;
+	padding: 8px;
+	margin-left: 20px
+}
+
+.mwb_wcswr_move_to_trash {
+	background-color: #fff;
+	margin: 0 auto;
+	border: 1px solid #fff;
+	height: 80px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	box-shadow: 2px 4px 6px 2px #ccc;
+}
+
+.mwb_wcswr_wrap_settings .mwb_wcswr-select2 {
+	width: 400px;
+	margin-top: 10px !important
+}
+
+.mwb_wcswr_wrap_settings .select2-container--default .select2-results__option[aria-selected=true] {
+	display: none
+}
+
+.toplevel_page_wp-content-scheduler-with-range .select2-dropdown {
+	margin-top: 31px
+}
+
+.mwb_wcswr_trash_button {
+	width: 70px
+}
+
+.mwb_wcswr_button {
+	width: 100px;
+	height: 45px !important;
+	border-radius: 25px !important;
+	font-size: 17px !important
+}
+
+.mwb_wcswr_trash_input {
+	padding: 10px 25px;
+}
+
+.mwb_wcswr_select_post {
+	padding-top: 8px;
+	width: 100%;
+}
+
+.mwb_wcswr_submit_btn {
+	text-align: center
+}
+
+label {
+	margin-right: 35px
+}
+
+.mwb_wcswr_extra_content {
+	background-color: #fff;
+	border: 1px solid #fff;
+	margin: 0 auto;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	box-shadow: 2px 4px 6px 2px #ccc;
+}
+
+#mwb_wcswr_occasional_content_wrap_bottom,
+	#mwb_wcswr_occasional_content_wrap_top {
+	background-color: rgba(0, 0, 0, .7);
+	color: #fff;
+	height: 70px;
+	left: 0;
+	overflow-y: scroll;
+	position: fixed;
+	right: 0;
+	text-align: center;
+	top: 32px;
+	z-index: 999999
+}
+
+.mwb_wcswr_content_section {
+	padding-left: 42px;
+	padding-right: 50px
+}
+
+#mwb_wcswr_occasional_content_wrap_bottom {
+	bottom: 0;
+	top: auto
+}
+
+.mwb_wcswr-occasional-content-left_wrapper {
+	display: inline-block;
+	width: 25%;
+	vertical-align: top;
+}
+
+.mwb_wcswr-occasional-content-right_wrapper {
+	display: inline-block;
+	vertical-align: middle;
+	width: auto;
+}
+
+.mwb_wcswr_active
+{
+	background:#3bafda!important;
+	color: #ffffff!important;
+}
+
+.mwb_wcswr_tabs {
+	background-color: #ffffff;
+	color: #333333;
+	margin-bottom: 10px;
+	padding: 8px 5px;
+	cursor: pointer;
+	border-left:3px solid #3bafda;
+	font-weight: bold;
+}
+
+.mwb_wcswr_toggle_tabs {
+	float: left;
+	margin-right: 10px;
+	width: 16%
+}
+
+.mwb_wcswr_wrap_settings {
+	float: left;
+	width: 80%
+}
+
+
+
+.mwb_wcswr-occasional-content-right_wrapper .select2-selection__rendered li input
+	{
+	width: 100% !important
+}
+
+.mwb_wcswr_trash_button.button-primary {
+	border-radius: 25px
+}
+
+.mwb_wcswr_loading_image {
+	height: 28px;
+	vertical-align: middle;
+	display: none
+}
+
+.mwb_wcswr_occasional_content_loding_img,
+	.mwb_wcswr_post_type_loding_img {
+	height: 45px;
+	vertical-align: middle;
+	display: none
+}
+
+#toplevel_page_wp-content-scheduler-with-range img {
+	width: 21px
+}
+
+#applied_options {
+	vertical-align: top
+}
+
+#mwb_wcswr_occasional_content_wrap_top p, .mwb_wcswr_occasional_content p
+	{
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%
+}
+
+#mwb_wcswr_templ_close_occ_content>span {
+	background-color: #64aa00;
+	border-radius: 100%;
+	display: inline-block;
+	font-size: 20px;
+	font-weight: 700;
+	height: 30px;
+	margin-top: 3px;
+	padding-top: 4px;
+	text-align: center;
+	width: 30px;
+	line-height: 22px
+}
+
+#mwb_wcswr_templ_close_occ_content {
+	position: fixed;
+	right: 20px;
+	cursor: pointer
+}
+
+#mwb_wcswr_occasional_content_wrap_top>div {
+	top: 65px;
+	cursor: pointer
+}
+
+.mwb_wcswr_occasional_content p {
+	color: #fff !important;
+	font-family: OpenSans-Light !important;
+	font-size: 16px !important;
+	text-align: center;
+	width: 100% !important;
+	padding-left: 40px;
+	padding-right: 40px
+}
+
+/*CHANGES*/
+.mwb_wcswr_container h2.mwb_wcswr_setting_wrapper {
+    background: #f9f9f9 none repeat scroll 0 0;
+    font-size: 18px;
+    font-weight: normal;
+    max-width: 94.4%;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 3px 4px 2px 0 #ccc;
+}
+.mwb_wcswr-occasional-content-lt_wrapper input {
+    margin: 0;
+}
+.mwb_wcswr-occasional-content-lt_wrapper ,
+.mwb_wcswr-occasional-content-rt_wrapper {
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+}
+.mwb_wcswr-select-post-type-label > a {
+    display: inline-block;
+    vertical-align: middle;
+}
+.mwb_wcswr-occasional-content-save_wrapper .mwb_wcswr_align_span
+{
+	float: none;
+	text-align: left;
+	width: auto;
+	margin:10px 0;
+}
+
+
+#mwb_wcswr_from, 
+#mwb_wcswr_to {
+	width: 165px;
+}
+
+.mwb_wcswr_clear > img {
+    left: 4px;
+    position: relative;
+    width: 2%;
+}
+.mwb_wcswr_clear {
+    border-left: 1px solid #ccc;
+    left: -25px;
+    position: relative;
+    top: 1px;
+    cursor: pointer;
+}
+.mwb_wcswr_time_pick.timepicker.hasTimepicker {
+    max-width: 165px;
+    width: 100%;
+}

@@ -1,0 +1,48 @@
+.export-import-delete-wrapper {
+    width: 100%;
+}
+
+
+
+.export-import-delete-wrapper > div {
+    display: inline-block;
+    /* width: 33.3%; */
+    vertical-align: top;
+}
+
+.export-import-delete-inner {
+    padding-right: 60px;
+}
+
+@media screen and (max-width: 1000px){
+    .export-import-delete-wrapper > div {
+        width: 100%;
+    }
+    .export-import-delete-inner {
+        padding-right: 0px;
+        margin-bottom: 30px;
+    }
+}
+
+
+
+.module-item-label {
+    margin-left: 6px;
+    font-weight: bold;
+    position: relative;
+    top: 1px;
+}
+
+.modules-listing {
+    margin-bottom: 20px;
+}
+
+.export-import-delete-wrapper input[type=file] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.export-import-delete-wrapper .button-primary {
+    margin-bottom: 8px;
+}

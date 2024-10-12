@@ -1,0 +1,51 @@
+[WP STAGING Shutdown Function][E_WARNING][2024-09-20 13:56:40] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-09-21 13:57:11] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-09-23 13:56:38] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-09-24 13:57:48] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-09-26 13:56:24] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-09-27 13:58:38] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-09-29 13:57:20] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-10-01 13:56:18] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-10-02 13:56:19] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-10-04 13:56:40] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-10-06 13:58:19] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_WARNING][2024-10-08 13:56:48] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_ERROR][2024-10-08 16:08:20] Uncaught Error: Call to a member function get_billing_email() on bool in /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/woocommerce-order-tracker/woocommerce-order-tracker.php:263
+Stack trace:
+#0 /home/customer/www/vnxcargo.com.au/public_html/wp-includes/class-wp-hook.php(324): mwb_tyo_set_session('')
+#1 /home/customer/www/vnxcargo.com.au/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/vnxcargo.com.au/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/vnxcargo.com.au/public_html/wp-settings.php(700): do_action('init')
+#4 /home/customer/www/vnxcargo.com.au/public_html/wp-config.php(111): require_once('/home/customer/...')
+#5 /home/customer/www/vnxcargo.com.au/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/vnxcargo.com.au/public_html/wp-blog-header.php(13): require_once('/home/customer/...')
+#7 /home/customer/www/vnxcargo.com.au/public_html/index.php(17): require('/home/customer/...')
+#8 {main}
+  thrown - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/woocommerce-order-tracker/woocommerce-order-tracker.php Line: 263 | Is it Fatal Error? Yes | Is it Thrown by WP STAGING? No
+[WP STAGING Shutdown Function][E_WARNING][2024-10-09 13:57:50] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_ERROR][2024-10-09 16:15:33] Uncaught Error: Call to a member function get_billing_email() on bool in /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/woocommerce-order-tracker/woocommerce-order-tracker.php:263
+Stack trace:
+#0 /home/customer/www/vnxcargo.com.au/public_html/wp-includes/class-wp-hook.php(324): mwb_tyo_set_session('')
+#1 /home/customer/www/vnxcargo.com.au/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/vnxcargo.com.au/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/vnxcargo.com.au/public_html/wp-settings.php(700): do_action('init')
+#4 /home/customer/www/vnxcargo.com.au/public_html/wp-config.php(111): require_once('/home/customer/...')
+#5 /home/customer/www/vnxcargo.com.au/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/vnxcargo.com.au/public_html/wp-blog-header.php(13): require_once('/home/customer/...')
+#7 /home/customer/www/vnxcargo.com.au/public_html/index.php(17): require('/home/customer/...')
+#8 {main}
+  thrown - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/woocommerce-order-tracker/woocommerce-order-tracker.php Line: 263 | Is it Fatal Error? Yes | Is it Thrown by WP STAGING? No
+[WP STAGING Shutdown Function][E_WARNING][2024-10-10 13:57:56] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
+[WP STAGING Shutdown Function][E_ERROR][2024-10-11 20:20:54] Uncaught Error: Call to a member function get_billing_email() on bool in /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/woocommerce-order-tracker/woocommerce-order-tracker.php:263
+Stack trace:
+#0 /home/customer/www/vnxcargo.com.au/public_html/wp-includes/class-wp-hook.php(324): mwb_tyo_set_session('')
+#1 /home/customer/www/vnxcargo.com.au/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/vnxcargo.com.au/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/vnxcargo.com.au/public_html/wp-settings.php(700): do_action('init')
+#4 /home/customer/www/vnxcargo.com.au/public_html/wp-config.php(111): require_once('/home/customer/...')
+#5 /home/customer/www/vnxcargo.com.au/public_html/wp-load.php(50): require_once('/home/customer/...')
+#6 /home/customer/www/vnxcargo.com.au/public_html/wp-blog-header.php(13): require_once('/home/customer/...')
+#7 /home/customer/www/vnxcargo.com.au/public_html/index.php(17): require('/home/customer/...')
+#8 {main}
+  thrown - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/woocommerce-order-tracker/woocommerce-order-tracker.php Line: 263 | Is it Fatal Error? Yes | Is it Thrown by WP STAGING? No
+[WP STAGING Shutdown Function][E_WARNING][2024-10-12 13:57:19] Undefined property: stdClass::$stable_version - File: /home/customer/www/vnxcargo.com.au/public_html/wp-content/plugins/wp-staging-pro/Backend/Pro/Licensing/Version.php Line: 122 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes

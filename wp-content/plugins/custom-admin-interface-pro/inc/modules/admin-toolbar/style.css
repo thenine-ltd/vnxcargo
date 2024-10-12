@@ -1,0 +1,33 @@
+.custom-admin-interface-pro-builder ul {
+    padding-left: 30px;
+}
+.custom-admin-interface-pro-builder li div {
+    background: #23282d;
+    border-radius: 4px;
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,.2);
+    padding: 8px;
+    margin-bottom: 5px;
+    cursor: move;
+    font-size: 16px;
+    color: white;
+}
+
+.custom-admin-interface-pro-builder .action-items {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+}
+
+.custom-admin-interface-pro-builder .action-items div {
+    cursor: pointer;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+}
+
+.custom-admin-interface-pro-builder li .selected {
+    opacity: .5;
+}

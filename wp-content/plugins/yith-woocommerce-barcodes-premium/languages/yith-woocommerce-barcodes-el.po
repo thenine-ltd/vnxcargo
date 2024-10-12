@@ -1,0 +1,886 @@
+# Translation of YITH WooCommerce Barcodes and QR Codes in Greek
+# This file is distributed under the same license as the YITH WooCommerce Barcodes and QR Codes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Barcodes and QR Codes\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"barcodes-and-qr-codes.premium\n"
+"POT-Creation-Date: 2021-03-05 16:07:01+00:00\n"
+"PO-Revision-Date: 2021-01-05 17:43:44+0000\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+
+#: functions.php:39
+msgid ""
+"YITH WooCommerce Barcodes is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"Το YITH WooCommerce Barcodes είναι ενεργοποιημένο αλλά αναποτελεσματικό. Για "
+"σωστή λειτουργία, απαιτείται WooCommerce."
+
+#: includes/class-yith-woocommerce-barcodes.php:397
+msgid "No barcode is available for this element."
+msgstr "Δεν υπάρχει διαθέσιμος γραμμωτός κώδικας για αυτό το στοιχείο."
+
+#: includes/class-yith-ywbc-backend.php:331
+msgid "Generate barcode"
+msgstr "Δημιουργία γραμμωτού κώδικα"
+
+#: includes/class-yith-ywbc-backend.php:347
+msgid "Barcodes applied successfully"
+msgstr "Οι γραμμωτοί κώδικες εφαρμόστηκαν επιτυχώς"
+
+#: includes/class-yith-ywbc-backend.php:348
+msgid "It is not possible to complete the task"
+msgstr "Δεν είναι δυνατή η ολοκλήρωση της εργασίας"
+
+#: includes/class-yith-ywbc-backend.php:659
+#: includes/class-yith-ywbc-backend.php:668
+msgid "YITH Barcodes"
+msgstr "YITH Barcodes"
+
+#: includes/class-yith-ywbc-backend.php:718
+#: templates/shortcode/ywbc-complete-orders.php:7
+msgid "Code"
+msgstr "Κώδικας"
+
+#: includes/class-yith-ywbc-backend.php:721
+msgid "Enter the code or leave empty for automatic code"
+msgstr "Εισάγετε τον κώδικα ή διατηρήστε κενό για αυτόματο κώδικα"
+
+#: includes/class-yith-ywbc-backend.php:725
+msgid "Generate"
+msgstr "Δημιουργία"
+
+#: includes/class-yith-ywbc-backend.php:728
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: includes/class-yith-ywbc-shortcodes.php:238
+#: includes/class-yith-ywbc-shortcodes.php:336
+msgid "The selected action could not be performed"
+msgstr "Δεν έγινε εκτέλεση της επιλεγμένης ενέργειας"
+
+#: includes/class-yith-ywbc-shortcodes.php:310
+msgid "Matching results"
+msgstr "Αντιστοίχιση αποτελεσμάτων"
+
+#: includes/class-yith-ywbc-shortcodes.php:519
+msgid "Order status set by %s through YITH WooCommerce Barcodes."
+msgstr "Κατάσταση παραγγελίας ορίστηκε από %s μέσω YITH WooCommerce Barcodes."
+
+#: includes/class-yith-ywbc-shortcodes.php:521
+msgid "Order status set through YITH WooCommerce Barcodes."
+msgstr "Κατάσταση παραγγελίας ορίστηκε μέσω YITH WooCommerce Barcodes."
+
+#: includes/class-ywbc-plugin-fw-loader.php:153
+#: plugin-options/product-options.php:21
+msgid "Product barcodes"
+msgstr "Γραμμωτοί κώδικες προϊόντος"
+
+#: includes/class-ywbc-plugin-fw-loader.php:154
+#: plugin-options/order-options.php:20
+msgid "Order barcodes"
+msgstr "Γραμμωτοί κώδικες παραγγελίας"
+
+#: includes/class-ywbc-plugin-fw-loader.php:155
+#: plugin-options/print-options.php:11
+msgid "Print barcodes"
+msgstr "Εκτύπωση γραμμωτών κωδίκων"
+
+#: includes/class-ywbc-plugin-fw-loader.php:156
+msgid "Shortcodes"
+msgstr "Μικροκώδικες"
+
+#: includes/class-ywbc-plugin-fw-loader.php:205
+msgid ""
+"YITH WooCommerce Barcodes is available in an outstanding PREMIUM version "
+"with many new options, discover it now."
+msgstr ""
+"Το YITH WooCommerce Barcodes είναι διαθέσιμο σε μια εξαιρετική PREMIUM "
+"έκδοση με πολλές νέες επιλογές, ανακαλύψτε το τώρα."
+
+#: includes/class-ywbc-plugin-fw-loader.php:206
+msgid "Premium version"
+msgstr "Premium έκδοση"
+
+#: includes/class-ywbc-plugin-fw-loader.php:213
+msgid "YITH WooCommerce Barcodes"
+msgstr "YITH WooCommerce Barcodes"
+
+#: includes/class-ywbc-plugin-fw-loader.php:214
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Barcodes options.<br> From "
+"this menu you can access all settings of YITH plugins activated."
+msgstr ""
+"Στον πίνακα Πρόσθετων YITH μπορείτε να βρείτε τις επιλογές του YITH "
+"WooCommerce Barcodes.<br> Από αυτό το μενού μπορείτε να έχετε πρόσβαση σε "
+"όλες τις ρυθμίσεις των ενεργοποιημένων πρόσθετων YITH."
+
+#: includes/third-party/elementor/class-ywbc-orders-panel.php:28
+msgid "YITH Barcodes Orders Panel"
+msgstr "YITH Barcodes Πάνελ Παραγγελιών"
+
+#: includes/third-party/elementor/class-ywbc-orders-panel.php:53
+#: includes/third-party/elementor/class-ywbc-products-panel.php:53
+#: includes/third-party/elementor/class-ywbc-render-actual-post-barcode.php:53
+#: includes/third-party/elementor/class-ywbc-render-barcode.php:53
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: includes/third-party/elementor/class-ywbc-orders-panel.php:61
+#: includes/third-party/elementor/class-ywbc-products-panel.php:61
+#: includes/third-party/elementor/class-ywbc-render-actual-post-barcode.php:61
+#: includes/third-party/elementor/class-ywbc-render-barcode.php:70
+msgid "Form description"
+msgstr "Περιγραφή φόρμας"
+
+#: includes/third-party/elementor/class-ywbc-orders-panel.php:64
+#: includes/third-party/elementor/class-ywbc-products-panel.php:64
+#: includes/third-party/elementor/class-ywbc-render-actual-post-barcode.php:64
+#: includes/third-party/elementor/class-ywbc-render-barcode.php:73
+msgid "Write a description here"
+msgstr "Πληκτρολογήστε μια περιγραφή εδώ"
+
+#: includes/third-party/elementor/class-ywbc-products-panel.php:28
+msgid "YITH Barcodes Products Panel"
+msgstr "YITH Barcodes Πάνελ Προϊόντων"
+
+#: includes/third-party/elementor/class-ywbc-render-actual-post-barcode.php:28
+msgid "YITH Barcodes Render Post Barcode"
+msgstr "YITH Barcodes Απόδοση Άρθρου Γραμ. Κώδικα"
+
+#: includes/third-party/elementor/class-ywbc-render-barcode.php:28
+msgid "YITH Barcodes Render Barcode by ID"
+msgstr "YITH Barcodes Απόδοση Γραμ. Κώδικα ανά ID"
+
+#: includes/third-party/elementor/class-ywbc-render-barcode.php:61
+msgid "Post ID"
+msgstr "ID Άρθρου"
+
+#: plugin-options/order-options.php:24
+msgid "Generate and apply barcodes on orders"
+msgstr "Δημιουργία και εφαρμογή γραμμωτών κωδίκων σε παραγγελίες"
+
+#: plugin-options/order-options.php:27
+msgid ""
+"Enable to apply barcodes on orders. If enabled, you can manually create "
+"barcodes in your old orders"
+msgstr ""
+"Ενεργοποίηση εφαρμογής γραμμωτών κωδίκων σε παραγγελίες. Εάν ενεργοποιηθεί, "
+"μπορείτε να δημιουργήσετε γραμμωτούς κώδικες χειροκίνητα για τις παλιές "
+"παραγγελίες σας"
+
+#: plugin-options/order-options.php:33
+msgid "Automatically generate and apply barcodes on new orders"
+msgstr "Αυτόματη δημιουργία και εφαρμογή γραμμωτών κωδίκων σε νέες παραγγελίες"
+
+#: plugin-options/order-options.php:36
+msgid "Enable to automatically apply a barcode in all new orders"
+msgstr ""
+"Ενεργοποίηση αυτόματης εφαρμογής γραμμωτού κώδικα σε όλες τις νέες "
+"παραγγελίες"
+
+#: plugin-options/order-options.php:48 plugin-options/product-options.php:35
+msgid "Code type"
+msgstr "Τύπος κώδικα"
+
+#: plugin-options/order-options.php:53 plugin-options/product-options.php:40
+#: templates/shortcode/ywbc-search-orders.php:21
+#: templates/shortcode/ywbc-search-products.php:19
+msgid "Barcode"
+msgstr "Γραμμωτός κώδικας"
+
+#: plugin-options/order-options.php:57 plugin-options/product-options.php:44
+msgid "QR Code"
+msgstr "Κώδικας QR"
+
+#: plugin-options/order-options.php:62 plugin-options/product-options.php:49
+msgid "Choose the code type to be generated in the products"
+msgstr "Επιλέξτε τον τύπο κώδικα που θέλετε να δημιουργείται για τα προϊόντα"
+
+#: plugin-options/order-options.php:72
+msgid "Order barcode protocol"
+msgstr "Πρωτόκολλο γραμμωτού κώδικα παραγγελίας"
+
+#: plugin-options/order-options.php:75
+msgid ""
+"Choose the barcode protocol you want to use to generate a new barcode on "
+"orders"
+msgstr ""
+"Επιλέξτε το πρωτόκολλο γραμμωτού κώδικα που θέλετε να χρησιμοποιήσετε για "
+"την δημιουργία νέου γραμμωτού κώδικα σε παραγγελίες"
+
+#: plugin-options/order-options.php:89 plugin-options/product-options.php:75
+msgid "Generate the barcode using: "
+msgstr "Δημιουργία γραμμωτού κώδικα χρησιμοποιώντας: "
+
+#: plugin-options/order-options.php:94
+msgid "The order ID"
+msgstr "ID παραγγελίας"
+
+#: plugin-options/order-options.php:95
+msgid "The order number"
+msgstr "Αριθμός παραγγελίας"
+
+#: plugin-options/order-options.php:96 plugin-options/product-options.php:83
+msgid "A custom field"
+msgstr "Προσαρμοσμένο πεδίο"
+
+#: plugin-options/order-options.php:98
+msgid "Choose which order info used to generate the barcodes"
+msgstr ""
+"Επιλέξτε ποια στοιχεία παραγγελίας να χρησιμοποιηθούν για την δημιουργία "
+"γραμμωτών κωδίκων"
+
+#: plugin-options/order-options.php:107
+msgid "Custom field to use for barcode generation"
+msgstr "Προσαρμοσμένο πεδίο προς χρήση για την δημιουργία γραμμωτών κωδίκων"
+
+#: plugin-options/order-options.php:108
+msgid "Enter the custom field name to use to generate the barcodes"
+msgstr ""
+"Εισάγετε το όνομα προσαρμοσμένου πεδίου που θέλετε να χρησιμοποιήσετε για "
+"την δημιουργία γραμμωτών κωδίκων"
+
+#: plugin-options/order-options.php:120
+msgid "Show barcodes in order page"
+msgstr "Εμφάνιση γραμμωτών κωδίκων στη σελίδα παραγγελίας"
+
+#: plugin-options/order-options.php:123
+msgid "Enable to show the order barcode in the order page"
+msgstr ""
+"Ενεργοποίηση εμφάνισης γραμμωτού κώδικα παραγγελίας στη σελίδα παραγγελίας"
+
+#: plugin-options/order-options.php:133
+msgid "Show order barcode in order email"
+msgstr "Εμφάνιση γραμμωτού κώδικα παραγγελίας σε email παραγγελίας"
+
+#: plugin-options/order-options.php:138
+msgid "Never show order barcode in emails"
+msgstr "Να μην γίνεται ποτέ εμφάνιση γραμμωτού κώδικα στα email"
+
+#: plugin-options/order-options.php:139
+msgid "Show only in emails sent after the order is set to 'completed'"
+msgstr ""
+"Εμφάνιση μόνο σε email που στέλνονται αφού η παραγγελία έχει οριστεί σε "
+"‘ολοκληρώθηκε’"
+
+#: plugin-options/order-options.php:140
+msgid "Show in all email"
+msgstr "Εμφάνιση σε όλα τα email"
+
+#: plugin-options/order-options.php:142
+msgid "Choose if show or not the order barcode in order emails"
+msgstr ""
+"Επιλέξτε αν θέλετε να εμφανίζετε ή όχι τον γραμμωτό κώδικα παραγγελίας στα "
+"email παραγγελίας"
+
+#: plugin-options/print-options.php:13
+msgid ""
+"The print feature opens a new windows, so it is necessary to allow pop-ups "
+"on this page for the right functioning of the feature"
+msgstr ""
+"Το χαρακτηριστικό εκτύπωσης ανοίγει ένα νέο παράθυρο, επομένως για την σωστή "
+"λειτουργία του χρειάζεται να επιτρέψετε τα pop-up σε αυτή τη σελίδα"
+
+#: plugin-options/print-options.php:18
+msgid "Show product image in printed list"
+msgstr "Εμφάνιση εικόνας προϊόντος σε λίστα εκτυπώσεων"
+
+#: plugin-options/print-options.php:21
+msgid "Enable to add the product image in the printable products list"
+msgstr ""
+"Ενεργοποιήστε για να προσθέσετε την εικόνα προϊόντος στη λίστα προϊόντων "
+"προς εκτύπωση"
+
+#: plugin-options/print-options.php:26
+msgid "Print a barcode list of: "
+msgstr "Εκτύπωση λίστας γραμμωτού κώδικα για: "
+
+#: plugin-options/print-options.php:31
+msgid "All products"
+msgstr "Όλα τα προϊόντα"
+
+#: plugin-options/print-options.php:32
+msgid "All products, including variations"
+msgstr "Όλα τα προϊόντα, περιλαμβάνονται παραλλαγές"
+
+#: plugin-options/print-options.php:38
+msgid ""
+"Choose to print a list of barcodes of all products and if include or not the "
+"products variations"
+msgstr ""
+"Επιλέξτε να εκτυπώσετε μια λίστα γραμμωτών κωδίκων για όλα τα προϊόντα και "
+"αν θέλετε να συμπεριλάβετε ή όχι τις παραλλαγές προϊόντων"
+
+#: plugin-options/print-options.php:45
+msgid "Print barcodes by product"
+msgstr "Εκτύπωση γραμμωτών κωδίκων ανά προϊόν"
+
+#: plugin-options/product-options.php:25
+msgid "Generate and apply barcodes to products"
+msgstr "Δημιουργία και εφαρμογή γραμμωτών κωδίκων σε προϊόντα"
+
+#: plugin-options/product-options.php:28
+msgid ""
+"If enabled, you can choose to apply barcodes to all products or only to "
+"products without a barcode"
+msgstr ""
+"Αν ενεργοποιηθεί, μπορείτε να επιλέξετε την εφαρμογή γραμμωτών κωδίκων σε "
+"όλα τα προϊόντα ή μόνο σε προϊόντα χωρίς γραμμωτό κώδικα"
+
+#: plugin-options/product-options.php:59
+msgid "Product barcode protocol"
+msgstr "Πρωτόκολλο γραμμωτού κώδικα προϊόντος"
+
+#: plugin-options/product-options.php:62
+msgid ""
+"Choose the barcode protocol you want to use to generate a new barcode on "
+"products"
+msgstr ""
+"Επιλέξτε το πρωτόκολλο γραμμωτού κώδικα που θέλετε να χρησιμοποιήσετε για "
+"την δημιουργία νέου γραμμωτού κώδικα σε προϊόντα"
+
+#: plugin-options/product-options.php:80
+msgid "The product ID"
+msgstr "Το ID προϊόντος"
+
+#: plugin-options/product-options.php:81
+msgid "The product SKU"
+msgstr "Το SKU προϊόντος"
+
+#: plugin-options/product-options.php:82
+#, fuzzy
+msgid "The product URL"
+msgstr "Το SKU προϊόντος"
+
+#: plugin-options/product-options.php:85
+msgid "Choose which product info used to generate the barcodes"
+msgstr ""
+"Επιλέξτε ποια στοιχεία προϊόντος να χρησιμοποιηθούν για την δημιουργία "
+"γραμμωτών κωδίκων"
+
+#: plugin-options/product-options.php:95
+msgid "Custom field used for barcode generation"
+msgstr ""
+"Προσαρμοσμένο πεδίο που χρησιμοποιήθηκε για την δημιουργία γραμμωτών κωδίκων"
+
+#: plugin-options/product-options.php:96
+msgid "Enter the custom field name used to generate the barcodes"
+msgstr ""
+"Εισάγετε το όνομα προσαρμοσμένου πεδίου που χρησιμοποιήθηκε για την "
+"δημιουργία γραμμωτών κωδικών"
+
+#: plugin-options/product-options.php:109
+msgid "Generate and apply barcodes to: "
+msgstr "Δημιουργία και εφαρμογή γραμμωτών κωδίκων σε: "
+
+#: plugin-options/product-options.php:114
+msgid "All products (also products that already have a barcode)"
+msgstr "Όλα τα προϊόντα (και τα προϊόντα που έχουν ήδη γραμμωτό κώδικα)"
+
+#: plugin-options/product-options.php:115
+msgid "Only products without a barcode"
+msgstr "Μόνο προϊόντα με γραμμωτό κώδικα"
+
+#: plugin-options/product-options.php:127
+msgid "Apply barcodes automatically to the products"
+msgstr "Αυτόματη εφαρμογή γραμμωτών κωδίκων σε προϊόντα"
+
+#: plugin-options/product-options.php:137
+msgid "Enable manual barcode"
+msgstr "Ενεργοποίηση χειροκίνητου γραμμωτού κώδικα"
+
+#: plugin-options/product-options.php:140
+msgid ""
+"If enabled, a form will be displayed in product page where a barcode value "
+"can be entered"
+msgstr ""
+"Αν ενεργοποιηθεί, θα εμφανιστεί μια φόρμα στη σελίδα προϊόντος όπου μπορείτε "
+"να εισάγετε την αξία γραμμωτού κώδικα"
+
+#: plugin-options/product-options.php:151
+msgid "Automatically generate and apply barcodes on new products"
+msgstr "Αυτόματη δημιουργία και εφαρμογή γραμμωτών κωδίκων σε νέα προϊόντα"
+
+#: plugin-options/product-options.php:154
+msgid "Enable to automatically apply a barcode in all new products"
+msgstr ""
+"Ενεργοποίηση αυτόματης εφαρμογής γραμμωτού κώδικα σε όλα τα νέα προϊόντα"
+
+#: plugin-options/product-options.php:165
+msgid "Show barcodes in product page"
+msgstr "Εμφάνιση γραμμωτών κωδίκων στη σελίδα προϊόντος"
+
+#: plugin-options/product-options.php:168
+msgid "Enable to show the product barcode in product detail page"
+msgstr ""
+"Ενεργοποίηση εμφάνισης γραμμωτού κώδικα προϊόντος στη σελίδα στοιχείων "
+"προϊόντος"
+
+#: plugin-options/product-options.php:179
+msgid "Show product barcodes in order emails"
+msgstr "Εμφάνιση γραμμωτών κωδίκων προϊόντος στα email παραγγελίας"
+
+#: plugin-options/product-options.php:180
+msgid "Enable to show the product barcode in the orders emails"
+msgstr ""
+"Ενεργοποίηση εμφάνισης γραμμωτού κώδικα προϊόντος στα email παραγγελιών"
+
+#: plugin-options/shortcode-options.php:20
+msgid "Order shortcode settings"
+msgstr "Ρυθμίσεις μικροκώδικα παραγγελίας"
+
+#: plugin-options/shortcode-options.php:22
+msgid "You can scan and manage your orders using the shortcode "
+msgstr ""
+"Μπορείτε να σκανάρετε και να διαχειριστείτε τις παραγγελίες σας "
+"χρησιμοποιώντας τον μικροκώδικα "
+
+#: plugin-options/shortcode-options.php:26
+#: plugin-options/shortcode-options.php:81
+msgid "User roles allowed to access to the shortcode"
+msgstr "Ρόλοι χρήστη που επιτρέπεται να έχουν πρόσβαση στον μικροκώδικα"
+
+#: plugin-options/shortcode-options.php:27
+#: plugin-options/shortcode-options.php:82
+msgid "Select user roles that will have access to the shortcode"
+msgstr "Επιλέξτε ρόλους χρήστη που θα έχουν πρόσβαση στον μικροκώδικα"
+
+#: plugin-options/shortcode-options.php:38
+msgid "Show Processing button"
+msgstr "Εμφάνιση κουμπιού Σε Επεξεργασία"
+
+#: plugin-options/shortcode-options.php:41
+msgid ""
+"Show a button to change the order to Processing in the order shortcode table"
+msgstr ""
+"Εμφάνιση κουμπιού αλλαγής παραγγελίας ως Σε Επεξεργασία στον πίνακα "
+"μικροκώδικα παραγγελίας"
+
+#: plugin-options/shortcode-options.php:46
+msgid "Show Completed button"
+msgstr "Εμφάνιση κουμπιού Ολοκληρώθηκε"
+
+#: plugin-options/shortcode-options.php:49
+msgid ""
+"Show a button to change the order to Completed in the order shortcode table"
+msgstr ""
+"Εμφάνιση κουμπιού αλλαγής παραγγελίας σε Ολοκληρώθηκε στον πίνακα "
+"μικροκώδικα παραγγελίας"
+
+#: plugin-options/shortcode-options.php:55
+msgid "Update an order status after scanning"
+msgstr "Ενημέρωση κατάστασης παραγγελίας μετά από σκανάρισμα"
+
+#: plugin-options/shortcode-options.php:60
+msgid "Don't update the order status"
+msgstr "Να μην γίνεται ενημέρωση της κατάστασης παραγγελίας"
+
+#: plugin-options/shortcode-options.php:61
+msgid "Process the order automatically"
+msgstr "Αυτόματη επεξεργασία παραγγελίας"
+
+#: plugin-options/shortcode-options.php:62
+msgid "Complete the order automatically"
+msgstr "Αυτόματη ολοκλήρωση παραγγελίας"
+
+#: plugin-options/shortcode-options.php:75
+msgid "Product shortcode settings"
+msgstr "Ρυθμίσεις μικροκώδικα προϊόντος"
+
+#: plugin-options/shortcode-options.php:77
+msgid "You can scan and manage your products using the shortcode "
+msgstr ""
+"Μπορείτε να σκανάρετε και να διαχειριστείτε τα προϊόντα σας χρησιμοποιώντας "
+"τον μικροκώδικα "
+
+#: plugin-options/shortcode-options.php:93
+msgid "Show Stock buttons"
+msgstr "Εμφάνιση κουμπιών Αποθέματος"
+
+#: plugin-options/shortcode-options.php:96
+msgid "Show stock buttons in the product shortcode table"
+msgstr "Εμφάνιση κουμπιών αποθέματος στον πίνακα μικροκώδικα προϊόντος"
+
+#: plugin-options/shortcode-options.php:101
+msgid "Stock behavior on product scan"
+msgstr "Συμπεριφορά αποθέματος κατα σκανάρισμα προϊόντος"
+
+#: plugin-options/shortcode-options.php:106
+msgid "Don't update the stock"
+msgstr "Να μην γίνεται ενημέρωση αποθέματος"
+
+#: plugin-options/shortcode-options.php:107
+msgid "Decrease the product stock automatically"
+msgstr "Αυτόματη μείωση αποθέματος προϊόντος"
+
+#: plugin-options/shortcode-options.php:108
+msgid "Increase the product stock automatically"
+msgstr "Αυτόματη αύξηση αποθέματος προϊόντος"
+
+#: plugin-options/shortcode-options.php:113
+msgid "Show Add to Cart"
+msgstr "Εμφάνιση Προσθήκης στο Καλάθι"
+
+#: plugin-options/shortcode-options.php:116
+msgid "Show an Add to Cart button in the product shortcode table"
+msgstr ""
+"Εμφάνιση κουμπιού Προσθήκης στο καλάθι στον πίνακα μικροκώδικα προϊόντος"
+
+#: templates/admin/apply-barcodes.php:47
+msgid "Generate barcodes"
+msgstr "Δημιουργία γραμμωτών κωδίκων"
+
+#: templates/admin/print-barcodes-by-products.php:17
+msgid "Print a document with "
+msgstr "Εκτύπωση εγγράφου με "
+
+#: templates/admin/print-barcodes-by-products.php:18
+msgid "Quantity"
+msgstr "Ποσότητα"
+
+#: templates/admin/print-barcodes-by-products.php:19
+msgid "barcodes of this product: "
+msgstr "γραμμωτούς κώδικες αυτού του προϊόντος: "
+
+#: templates/admin/print-barcodes-by-products.php:32
+#: templates/admin/print-barcodes.php:47
+msgid "Print"
+msgstr "Εκτύπωση"
+
+#: templates/admin/print-barcodes-by-products.php:35
+msgid "Choose which product barcode print and how many of them"
+msgstr "Επιλέξτε ποιον γραμμωτό κώδικα προϊόντος να εκτυπώσετε και πόσες φορές"
+
+#: templates/shortcode/ywbc-barcode-actions.php:27
+msgid "Enter the barcode here"
+msgstr "Εισάγετε τον γραμμωτό κώδικα εδώ"
+
+#: templates/shortcode/ywbc-complete-orders.php:3
+#: templates/shortcode/ywbc-search-orders.php:13
+msgid "Order"
+msgstr "Παραγγελία"
+
+#: templates/shortcode/ywbc-complete-orders.php:4
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: templates/shortcode/ywbc-complete-orders.php:5
+#: templates/shortcode/ywbc-search-orders.php:17
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: templates/shortcode/ywbc-complete-orders.php:6
+msgid "Total"
+msgstr "Σύνολο"
+
+#: templates/shortcode/ywbc-complete-orders.php:15
+msgid "Order list"
+msgstr "Λίστα παραγγελίας"
+
+#: templates/shortcode/ywbc-complete-orders.php:16
+msgid "The following orders have been set to completed"
+msgstr "Οι ακόλουθες παραγγελίες έχουν οριστεί ως ολοκληρωμένες"
+
+#: templates/shortcode/ywbc-complete-orders.php:53
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s για %s αντικείμενο"
+msgstr[1] "%s για %s αντικείμενα"
+
+#: templates/shortcode/ywbc-complete-orders.php:60
+msgid "View"
+msgstr "Προβολή"
+
+#: templates/shortcode/ywbc-complete-orders.php:71
+#: templates/shortcode/ywbc-search-orders.php:49
+msgid "No order matches the selected criteria"
+msgstr "Καμιά παραγγελία δεν ταιριάζει με τα επιλεγμένα κριτήρια"
+
+#: templates/shortcode/ywbc-search-orders-row.php:25
+msgid "Guest"
+msgstr "Επισκέπτης"
+
+#. translators: 1: order and number (i.e. Order #13) 2: user name
+#: templates/shortcode/ywbc-search-orders-row.php:30
+msgid "%1$s by %2$s"
+msgstr "%1$s από %2$s"
+
+#: templates/shortcode/ywbc-search-products-row.php:30
+msgid "Stock units: %s"
+msgstr "Μονάδες αποθέματος: %s"
+
+#: templates/shortcode/ywbc-search-products-row.php:32
+msgid "Manage stock not enabled"
+msgstr "Η διαχείριση αποθέματος δεν είναι ενεργή"
+
+#: templates/shortcode/ywbc-search-products.php:12
+msgid "Product image"
+msgstr "Εικόνα προϊόντος"
+
+#: templates/shortcode/ywbc-search-products.php:15
+msgid "Product"
+msgstr "Προϊόν"
+
+#: templates/shortcode/ywbc-search-products.php:23
+msgid "Stock status"
+msgstr "Κατάσταση αποθέματος"
+
+#: templates/shortcode/ywbc-search-products.php:48
+msgid "No product matches the selected criteria"
+msgstr "Κανένα προϊόν δεν ταιριάζει με τα επιλεγμένα κριτήρια"
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Barcodes</strong></code> allows you to "
+"generate and display barcode and QR code for your orders and products. <a "
+"href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-"
+"commerce shop on <strong>YITH</strong></a>."
+msgstr ""
+"Το <code><strong>YITH WooCommerce Barcodes</strong></code> σας επιτρέπει να "
+"δημιουργήσετε και να εμφανίσετε γραμμωτούς και QR κώδικες για τις "
+"παραγγελίες και τα προϊόντα σας. <a href=\"https://yithemes.com/\" target="
+"\"_blank\">Βρείτε περισσότερα πρόσθετα για το ηλεκτρονικό σας κατάστημα στο "
+"<strong>YITH</strong></a>."
+
+#: includes/class-yith-ywbc-backend.php:825
+msgctxt "[gutenberg]: block name"
+msgid "Product Barcode"
+msgstr "Γραμμωτός Κώδικας Προϊόντος"
+
+#: includes/class-yith-ywbc-backend.php:857
+msgctxt "[gutenberg]: block name"
+msgid "Order Barcode"
+msgstr "Γραμμωτός Κώδικας Παραγγελίας"
+
+#: includes/class-yith-ywbc-backend.php:898
+msgctxt "[gutenberg]: block name"
+msgid "Render Barcode"
+msgstr "Απόδοση Γραμ. Κώδικα"
+
+#: includes/class-yith-ywbc-backend.php:826
+msgctxt "[gutenberg]: block description"
+msgid ""
+"With this block you can search a product by barcode and manage the stock"
+msgstr ""
+"Με αυτό το πλαίσιο μπορείτε να αναζητήσετε ένα προϊόν με γραμ. κώδικα και να "
+"διαχειριστείτε το απόθεμα"
+
+#: includes/class-yith-ywbc-backend.php:858
+msgctxt "[gutenberg]: block description"
+msgid ""
+"With this block you can search an order by barcode and manage its status"
+msgstr ""
+"Με αυτό το πλαίσιο μπορείτε να αναζητήσετε μια παραγγελία με γραμ. κώδικα "
+"και να διαχειριστείτε την κατάστασή της"
+
+#: includes/class-yith-ywbc-backend.php:899
+msgctxt "[gutenberg]: block description"
+msgid "With this block you can show a barcode by product or order ID"
+msgstr ""
+"Με αυτό το πλαίσιο μπορείτε να εμφανίσετε γραμμωτό κώδικα ανά προϊόν ή ID "
+"παραγγελίας"
+
+#: includes/class-yith-ywbc-backend.php:931
+msgctxt "[gutenberg]: block description"
+msgid "Select protocol to use"
+msgstr "Επιλέξτε το πρωτόκολλο που θέλετε να χρησιμοποιήσετε"
+
+#: includes/class-yith-ywbc-backend.php:831
+msgctxt "[gutenberg]: keywords"
+msgid "Product"
+msgstr "Προϊόν"
+
+#: includes/class-yith-ywbc-backend.php:832
+#: includes/class-yith-ywbc-backend.php:864
+#: includes/class-yith-ywbc-backend.php:905
+msgctxt "[gutenberg]: keywords"
+msgid "Barcode"
+msgstr "Γραμμωτός κώδικας"
+
+#: includes/class-yith-ywbc-backend.php:833
+msgctxt "[gutenberg]: keywords"
+msgid "Stock"
+msgstr "Απόθεμα"
+
+#: includes/class-yith-ywbc-backend.php:834
+#: includes/class-yith-ywbc-backend.php:866
+msgctxt "[gutenberg]: keywords"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: includes/class-yith-ywbc-backend.php:863
+#: includes/class-yith-ywbc-backend.php:904
+msgctxt "[gutenberg]: keywords"
+msgid "Order"
+msgstr "Παραγγελία"
+
+#: includes/class-yith-ywbc-backend.php:865
+#: includes/class-yith-ywbc-backend.php:906
+msgctxt "[gutenberg]: keywords"
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: includes/class-yith-ywbc-backend.php:907
+msgctxt "[gutenberg]: keywords"
+msgid "Render"
+msgstr "Απόδοση"
+
+#: includes/class-yith-ywbc-backend.php:839
+#: includes/class-yith-ywbc-backend.php:881
+msgctxt "[gutenberg]: Option title"
+msgid "Capability"
+msgstr "Δυνατότητα"
+
+#: includes/class-yith-ywbc-backend.php:871
+msgctxt "[gutenberg]: Option title"
+msgid "Search type"
+msgstr "Τύπος αναζήτησης"
+
+#: includes/class-yith-ywbc-backend.php:876
+msgctxt "[gutenberg]: Option title"
+msgid "Style"
+msgstr "Στυλ"
+
+#: includes/class-yith-ywbc-backend.php:912
+msgctxt "[gutenberg]: Option title"
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-yith-ywbc-backend.php:917
+msgctxt "[gutenberg]: Option title"
+msgid "Hide if empty"
+msgstr "Να γίνεται απόκρυψη αν είναι κενό"
+
+#: includes/class-yith-ywbc-backend.php:926
+msgctxt "[gutenberg]: Option title"
+msgid "Value"
+msgstr "Αξία"
+
+#: includes/class-yith-ywbc-backend.php:947
+msgctxt "[gutenberg]: Option title"
+msgid "Inline CSS"
+msgstr "CSS σε σειρά"
+
+#: includes/class-yith-ywbc-backend.php:844
+#: includes/class-yith-ywbc-backend.php:886
+msgctxt "[gutenberg]: attribute description"
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: includes/class-yith-ywbc-backend.php:848
+msgctxt "[gutenberg]: Help text"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: includes/class-yith-ywbc-backend.php:849
+msgctxt "[gutenberg]: Help text"
+msgid "Increase stock"
+msgstr "Αύξηση αποθέματος"
+
+#: includes/class-yith-ywbc-backend.php:850
+msgctxt "[gutenberg]: Help text"
+msgid "Decrease stock"
+msgstr "Μείωση αποθέματος"
+
+#: includes/class-yith-ywbc-backend.php:890
+msgctxt "[gutenberg]: Help text"
+msgid "Set status as \"Complete\""
+msgstr "Ορισμός κατάστασης ως “Ολοκληρωμένο”"
+
+#: includes/class-yith-ywbc-backend.php:891
+msgctxt "[gutenberg]: Help text"
+msgid "Set status as \"Processing\""
+msgstr "Ορισμός κατάστασης ως “Σε επεξεργασία”"
+
+#: includes/class-yith-ywbc-backend.php:920
+msgctxt "[gutenberg]: Help text"
+msgid "Hide if empty"
+msgstr "Να γίνεται απόκρυψη αν είναι κενό"
+
+#: includes/class-yith-ywbc-backend.php:921
+msgctxt "[gutenberg]: Help text"
+msgid "Show if empty"
+msgstr "Να γίνεται εμφάνιση αν είναι κενό"
+
+#: includes/class-yith-ywbc-backend.php:933
+msgctxt "[gutenberg]: inspector description"
+msgid "EAN-13"
+msgstr "EAN-13"
+
+#: includes/class-yith-ywbc-backend.php:934
+msgctxt "[gutenberg]: inspector description"
+msgid "EAN-8"
+msgstr "EAN-8"
+
+#: includes/class-yith-ywbc-backend.php:935
+msgctxt "[gutenberg]: inspector description"
+msgid "STD 25"
+msgstr "STD 25"
+
+#: includes/class-yith-ywbc-backend.php:936
+msgctxt "[gutenberg]: inspector description"
+msgid "INT 25"
+msgstr "INT 25"
+
+#: includes/class-yith-ywbc-backend.php:937
+msgctxt "[gutenberg]: inspector description"
+msgid "CODE 39"
+msgstr "CODE 39"
+
+#: includes/class-yith-ywbc-backend.php:938
+msgctxt "[gutenberg]: inspector description"
+msgid "CODE 93"
+msgstr "CODE 93"
+
+#: includes/class-yith-ywbc-backend.php:939
+msgctxt "[gutenberg]: inspector description"
+msgid "CODE 128"
+msgstr "CODE 128"
+
+#: includes/class-yith-ywbc-backend.php:940
+msgctxt "[gutenberg]: inspector description"
+msgid "Codabar"
+msgstr "Codabar"
+
+#: includes/class-yith-ywbc-backend.php:941
+msgctxt "[gutenberg]: inspector description"
+msgid "QR code"
+msgstr "Κώδικας QR"
+
+#: includes/class-yith-ywbc-shortcodes.php:438
+msgctxt "title for product barcode form"
+msgid "Order barcode"
+msgstr "Γραμμωτός κώδικας παραγγελίας"
+
+#: includes/class-yith-ywbc-shortcodes.php:486
+msgctxt "title for product barcode form"
+msgid "Product barcode"
+msgstr "Γραμμωτός κώδικας προϊόντος"
+
+#: templates/shortcode/ywbc-barcode-actions.php:20
+msgctxt "placeholder for barcode text field"
+msgid "Type or scan the barcode value here..."
+msgstr "Πληκτρολογήστε ή σκανάρετε την αξία γραμμωτού κώδικα εδώ…"
+
+#: templates/shortcode/ywbc-complete-orders.php:42
+msgctxt "hash tag before order number"
+msgid "#"
+msgstr "#"
+
+#. translators: 1: first name 2: last name
+#: templates/shortcode/ywbc-search-orders-row.php:21
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: templates/shortcode/ywbc-search-orders-row.php:44
+msgctxt "Order status label"
+msgid "Status: %1$s"
+msgstr "Κατάσταση: %1$s"

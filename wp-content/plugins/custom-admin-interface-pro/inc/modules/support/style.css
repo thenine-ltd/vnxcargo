@@ -1,0 +1,26 @@
+.diagnostic-information {
+    margin: 15px 0px;
+}
+
+.diagnostic-information td {
+    vertical-align: top;
+    /* padding-bottom: 5px;
+    padding-right: 5px; */
+    padding: 6px;
+}
+
+.diagnostic-information ul {
+    margin: 0px;
+}
+
+.diagnostic-information tr:nth-child(odd) {
+    background: #f1f1f1;
+}
+
+.question-container h3 {
+    cursor: pointer;
+}
+
+.answer-container {
+    display: none;
+}

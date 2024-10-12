@@ -1,0 +1,629 @@
+section#mwb_tyo_wrapper {
+  margin: 0 auto;
+  max-width: 1170px;
+  padding: 60px 0;
+  text-align: center;
+}
+#mwb-tyo-user-billing-details{
+  margin-left:5px;
+}
+#mwb-tyo-main-wrapper{
+  background-color: #f2f2f2;
+  border: 4px double #ccc;
+  padding-bottom: 30px;
+}
+.mwb-tyo-snapshot-Controller-titlebar {
+  background: #4b4a4c none repeat scroll 0 0;
+  color: #ffffff;
+  height: 33px;
+}
+#mwb_tyo_snapshotController{
+  border-bottom: 4px double #ccc;
+}
+.mwb-tyo-snapshot-Controller-titlebar{
+  padding: 10px 10px 0;
+}
+.mwb-tyo-snapshot-Controller-titlebar #listing-icons{
+  margin-bottom: 0;
+}
+.mwb-tyo-snapshot-Controller-titlebar #listing-icons a{
+  color: #ccc;
+}
+#mwb_tyo_snapshotController{
+  position: relative;
+  display: inline-block;
+}
+.mwb_tyo_status::after {
+  border-left: 15px solid rgba(0, 0, 0, 0);
+  border-right: 15px solid rgba(0, 0, 0, 0);
+  border-top: 16px solid #82a1d8;
+  content: "";
+  position: absolute;
+  left: 52px;
+  top: 17px;
+  transform: rotate(-90deg);
+}
+.mwb_tyo_status.second::after{
+  left: 136px;
+}
+.mwb_tyo_status.third::after{
+  left: 220px;
+  }.mwb_tyo_status.fourth::after{
+    left: 304px;
+  }.mwb_tyo_status.fifth::after{
+    left: 390px;
+  }
+  .mwb_tyo_status {
+    background: #82a1d8 none repeat scroll 0 0;
+    border: none;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    display: inline-block;
+    height: 30px;
+    margin-top: 10px;
+    width: 60px;
+    margin-right: 20px;
+  }
+  .mwb-tyo-wrapper-middle {
+    padding: 40px 10px;
+  }
+  .mwb-tyo-wrapper-middle  .mwb-tyo-date{
+    color: #4d148c;
+    text-transform: capitalize;
+  }
+  .mwb-table-wrapper{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+  }
+  #mwb-table-container{
+    width: 100%;
+
+  }
+  #mwb_tyo_status_fifth{
+    background: #6ece4e;
+  }
+  #mwb_tyo_status_fifth::after{
+    border-top: 16px solid #6ece4e;
+  }
+  .mwb-table-wrapper th{
+    text-transform: capitalize;
+    background-color: #4b4a4c;
+    color: #fff;
+  }
+  .mwb-table-wrapper th,.mwb-table-wrapper td{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    border:1px solid #4b4a4c;
+  }
+  .mwb-table-wrapper tbody tr:hover{
+    background-color:  #e8ef81;
+  }
+  .mwb-tyo-footer-shipment-facts {
+    padding: 0 10px;
+  }
+  .mwb-tyo-footer-shipment-facts .mwb-tyo-delivery-to,
+  .mwb-tyo-footer-shipment-facts .mwb-tyo-tracking-number{
+    background-color: #4b4a4c;
+    color: #ccc;
+    padding: 4px 0;
+    margin-left:5px;
+
+  }
+  #mwb-table-container {
+  min-width: 600px;
+  width: 100%;
+}
+.mwb_tyo_biling_details {
+  float: right;
+  width: 50%;
+}
+.mwb_tyo_order_shiping_details {
+  float: left;
+  width: 50%;
+}
+.clear{
+  clear: both;
+}
+.mwb_tyo_button_track {
+    margin-top: 30px!important;
+    margin-left: 150px!important;
+}
+#mwb_tyo_order_id{
+  margin-left:50px;
+}
+#mwb_tracking_number{
+    margin-left:30px!important;
+    margin-top:15px!important;
+}
+  @media screen and (max-width: 400px) and (min-width: 320px) {
+    .wrapper-middle .ship-date ,.wrapper-middle .actual-delivery {
+      display: block;
+      float: none !important;
+      width: 100%;
+    }
+    .mwb_tyo_status{
+      display: block;
+    }
+    .mwb_tyo_status.second::after {
+      left: 52px;
+      top: 57px;
+    }
+    .mwb_tyo_status.third::after {
+      top: 97px;
+      left: 52px;
+    }
+    .mwb_tyo_status.fourth::after {
+      top: 137px;
+      left: 52px;
+    }
+  }
+  @media screen and (max-width: 767px) and (min-width: 320px) {
+     .mwb-tyo-footer-shipment-facts .mwb-tyo-tracking-number,.mwb-tyo-footer-shipment-facts .mwb-tyo-delivery-to{
+      margin-left: -12px;
+    }
+  }
+  #secondary{
+    display: none;
+  }
+  #primary{
+    width: 100% !important;
+  }
+   .mwb_tyo_error_processing_transaction{
+  color: red !important;
+}
+
+/*======================================================================================
+=            css for fedex and canadapost tracking on shipment tracking pae            =
+======================================================================================*/
+
+/*fedex css*/
+#mwb_tyo_fedex_tracking .form-group {
+  margin-bottom: 15px;
+}
+#mwb_tyo_fedex_tracking .form-group label {
+  width: 150px;
+  display: inline-block;
+}
+.mwb-tyo-outer-template-fedex {
+  width: 10px;
+  height: 600px;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+  background: #dedede;
+}
+.mwb-tyo-inner-template-fedex, .mwb-tyo-inner-template-fedex div {
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
+}
+.mwb-tyo-inner-template-fedex {
+  border: 2px solid #46965d;
+  border-top-width: 0;
+  background-color: #46965d;
+  top: 0;
+  height: 0%;
+}
+.mwb-tyo-inner-template-fedex div {
+  border: 2px solid orange;
+  border-bottom-width: 0;
+  background-color: orange;
+  bottom: 0;
+  width: 100%;
+  height: 5px;
+}
+.mwb-tyo-skill-template-fedex {
+  position: relative;
+  top: -1px;
+  left: 0px;
+  right: 0px;
+  width: 24px;
+  margin: 0px;
+}
+.mwb-tyo-circle-template-fedex {
+  margin-top:-2px;
+  background:#fff;
+  overflow:hidden;
+}
+.mwb-tyo-small-circle1-template-fedex {
+  height:25px;
+  width:25px;
+  background:#b7b7b7;
+  border-radius:50%;
+ 
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.mwb-tyo-small-circle2-template-fedex{
+  height:25px;
+  width:25px;
+  background:#b7b7b7;
+  border-radius:50%;
+  animation:glow 2.5s 8s;
+  animation-fill-mode:forwards;
+  -webkit-animation:glow 2.5s 8s;
+  -webkit-animation-fill-mode:forwards;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.mwb-tyo-small-circle3-template-fedex{
+  @include glownoshadow;
+  height:100%;
+  top:0;
+  width:0%;
+  animation:progress 1s;
+  animation-fill-mode:forwards;
+  -webkit-animation:progress 1s;
+  -webkit-animation-fill-mode:forwards;
+}
+.mwb-tyo-sub-circle1-template-fedex{
+  @include glownoshadow;
+  height:100%;
+  top:0;
+  width:0%;
+  animation:progress 0.2s 0.2s;
+  animation-fill-mode:forwards;
+  -webkit-animation:progress 0.2s 0.2s;
+  -webkit-animation-fill-mode:forwards;
+}
+.sub-circle2-template-v{
+  @include glownoshadow;
+  height:100%;
+  top:0;
+  width:0%;
+  animation:progress 5s 4s;
+  animation-fill-mode:forwards;
+  -webkit-animation:progress 5s 4s;
+  -webkit-animation-fill-mode:forwards;
+}
+@-webkit-keyframes progress {
+  0% {
+    width:0%;
+    background: #46965d;
+  }
+  100% {
+    width:100%;
+    background: #46965d;
+  }
+}
+@keyframes progress {
+  0% {
+    width:0%;
+    background: #46965d;
+  }
+  100% {
+    width:100%;
+    background: #46965d;
+  }
+}
+@-webkit-keyframes glow {
+  0%{
+    -moz-box-shadow:    none;
+    -webkit-box-shadow: none;
+    box-shadow:         none;
+  }
+  100%{
+    background: #46965d;
+  }
+}
+@keyframes glow {
+  0%{
+    -moz-box-shadow:    none;
+    -webkit-box-shadow: none;
+    box-shadow:         none;
+  }
+  100%{
+    background: #46965d;
+  }
+}
+@-webkit-keyframes fstate {
+  100%{
+    background:#fff;
+  }
+}
+@keyframes fstate {
+  100%{
+    background:#fff;
+  }
+}
+#mwb-temp-tooltip_fedex h4 {
+  margin: 0px;
+  color: #fff;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+#mwb-temp-tooltip_fedex {
+  width: 230px;
+  display: block;
+  border-radius: 5px;
+  background: #292929;
+  padding: 10px 10px;
+  -webkit-animation-duration: 6s;
+  -moz-animation-duration: 6s;
+  -o-animation-duration: 6s;
+  animation-duration: 6s;
+  -webkit-animation-fill-mode: both;
+  -moz-animation-fill-mode: both;
+  -o-animation-fill-mode: both;
+  animation-fill-mode: both;
+  margin-top: 50px;
+  text-align: center;
+  position: relative;
+  margin-left: 8px;
+}
+#mwb-temp-tooltip_fedex p {
+  font-size: 13px;
+  color: #fff;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  display: inline-block;
+  font-weight: 200;
+  font-size: 15px;
+}
+#mwb-temp-tooltip_fedex span {
+  margin-top: 10px;
+  font-size: 17px;
+  color: #fff;
+  text-transform: uppercase;
+  display:block;
+}
+.mwb-tyo-main-data-wrapper-template-fedex {
+  width: 310px;
+  overflow: hidden;
+  margin: 80px auto;
+}
+.mwb-tyo-order-tracking-section-template-fedex {
+  margin-left: 0;
+  margin: 0 auto;
+  text-align: center;
+  width: 280px;
+  float: right;
+}
+.mwb-tyo-order-progress-data-field-template-fedex {
+  float: left;
+  z-index: -1;
+  margin-left: 5px;
+  margin-top: 5px;
+  position: relative;
+}
+#mwb-temp-tooltip_fedex:before {
+  position: absolute;
+  content: '';
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-right: 17px solid #292929;
+  border-bottom: 10px solid transparent;
+  left: -17px;
+  top: 25px;
+  z-index: -1;
+}
+/*canadapost css*/
+.mwb-tyo-outer-template-canadapost {
+  width: 10px;
+  height: 600px;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+  background: #dedede;
+}
+.mwb-tyo-inner-template-canadapost, .mwb-tyo-inner-template-canadapost div {
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
+}
+.mwb-tyo-inner-template-canadapost {
+  border: 2px solid #46965d;
+  border-top-width: 0;
+  background-color: #46965d;
+  top: 0;
+  height: 0%;
+}
+.mwb-tyo-inner-template-canadapost div {
+  border: 2px solid orange;
+  border-bottom-width: 0;
+  background-color: orange;
+  bottom: 0;
+  width: 100%;
+  height: 5px;
+}
+.mwb-tyo-skill-template-canadapost {
+  position: relative;
+  top: -1px;
+  left: 0px;
+  right: 0px;
+  width: 24px;
+  margin: 0px;
+}
+.mwb-tyo-circle-template-canadapost {
+  margin-top:-2px;
+  background:#fff;
+  overflow:hidden;
+}
+.mwb-tyo-small-circle1-template-canadapost{
+  height:25px;
+  width:25px;
+  background:#b7b7b7;
+  border-radius:50%;
+  animation:glow 2.5s 3s;
+  animation-fill-mode:forwards;
+  -webkit-animation:glow 2.5s 3s;
+  -webkit-animation-fill-mode:forwards;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.mwb-tyo-small-circle2-template-canadapost{
+  height:25px;
+  width:25px;
+  background:#b7b7b7;
+  border-radius:50%;
+  animation:glow 2.5s 8s;
+  animation-fill-mode:forwards;
+  -webkit-animation:glow 2.5s 8s;
+  -webkit-animation-fill-mode:forwards;
+  -ms-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.mwb-tyo-sub-circle1-template-canadapost{
+  @include glownoshadow;
+  height:100%;
+  top:0;
+  width:0%;
+  animation:progress 1s;
+  animation-fill-mode:forwards;
+  -webkit-animation:progress 1s;
+  -webkit-animation-fill-mode:forwards;
+}
+.mwb-tyo-sub-circle2-template-canadapost{
+  @include glownoshadow;
+  height:100%;
+  top:0;
+  width:0%;
+  animation:progress 5s 4s;
+  animation-fill-mode:forwards;
+  -webkit-animation:progress 5s 4s;
+  -webkit-animation-fill-mode:forwards;
+}
+@-webkit-keyframes progress {
+  0% {
+    width:0%;
+    background: #46965d;
+  }
+  100% {
+    width:100%;
+    background: #46965d;
+  }
+}
+@keyframes progress {
+  0% {
+    width:0%;
+    background: #46965d;
+  }
+  100% {
+    width:100%;
+    background: #46965d;
+  }
+}
+@-webkit-keyframes glow {
+  0%{
+    -moz-box-shadow:    none;
+    -webkit-box-shadow: none;
+    box-shadow:         none;
+  }
+  100%{
+    background: #46965d;
+  }
+}
+@keyframes glow {
+  0%{
+    -moz-box-shadow:    none;
+    -webkit-box-shadow: none;
+    box-shadow:         none;
+  }
+  100%{
+    background: #46965d;
+  }
+}
+@-webkit-keyframes fstate {
+  100%{
+    background:#fff;
+  }
+}
+@keyframes fstate {
+  100%{
+    background:#fff;
+  }
+}
+.mwb-tooltip-canadapost h4 {
+  margin: 0px;
+  color: #fff;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.mwb-tooltip-canadapost {
+  width: 250px;
+  display: block;
+  border-radius: 0px;
+  background: #484848;
+  padding: 10px 10px;
+  
+  margin-top: 60px;
+  overflow: hidden;
+  text-align: center;
+  border: solid 3px rgb(175, 175, 175);
+
+}
+.mwb-tooltip-canadapost p {
+  font-size: 13px;
+  color: #fff;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  display: inline-block;
+  font-weight: 200;
+}
+.mwb-tooltip-canadapost span {
+  margin-top: 10px;
+  font-size: 17px;
+  color: #fff;
+  text-transform: uppercase;
+  display:block;
+}
+.mwb-tyo-progress {
+  position: absolute;
+  left: 158px;
+  z-index: -1;
+}
+.mwb-tyo-order-progress-data-field-template-canadapost {
+  float: left;
+  z-index: -1;
+  margin-left: 108px;
+  margin-top: 3px;
+}
+
+.mwb-tyo-main-data-wrapper-canadapost {
+ width: 310px;
+ overflow: hidden;
+ margin: 40px auto;
+ position: relative;
+}
+.mwb-tyo-order-tracking-section-canadapost {
+  margin-left: 0;
+  margin: 0 auto;
+  text-align: center;
+  width: 280px;
+  float: right;
+  position: absolute;
+}
+#mwb_tyo_track_with_shipping_carrier {
+  margin-bottom: 15px !important;
+}
+.mwb_track_order{
+  margin-top: 15px !important; 
+}
+
+.mwb_tyo_enhanced_content {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  word-spacing: 2px;
+  letter-spacing: 0.7px;
+  color: #000;
+}
+
+/*=====  End of css for fedex and canadapost tracking on shipment tracking pae  ======*/

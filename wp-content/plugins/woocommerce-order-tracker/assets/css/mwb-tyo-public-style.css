@@ -1,0 +1,26 @@
+/*new style*/
+.woocommerce-orders-table a.mwb_track_order,.woocommerce-orders-table a.thickbox {
+    margin-top: 5px; 
+  }
+
+
+
+.form-row-wide input, .form-row-wide textarea, .form-row-wide select {
+  width: 300px !important;
+}
+
+.wps_export {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  background-color: green !important;
+  color: white !important;
+
+  
+}
+
+.wps_wot_guest_user_export_button{
+  display:block !important;
+  margin-top:20px !important;
+  background-color: green !important;
+  color: white !important;
+}
